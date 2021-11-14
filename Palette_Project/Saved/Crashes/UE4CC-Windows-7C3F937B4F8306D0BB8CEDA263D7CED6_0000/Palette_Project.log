@@ -1,0 +1,1526 @@
+﻿Log file open, 11/14/21 13:08:48
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Palette_Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.234222
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=Darkthan9800 -epicuserid=c4e690cbfe5a4ae5947a6cbc33946d64 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: D:/Engines/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.14-18.08.48:776][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.14-18.08.48:776][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.14-18.08.48:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Engine.ini]
+[2021.11.14-18.08.48:776][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.14-18.08.48:776][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:1]]
+[2021.11.14-18.08.48:776][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2021.11.14-18.08.48:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Engine.ini]
+[2021.11.14-18.08.48:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Engine.ini]
+[2021.11.14-18.08.48:776][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.14-18.08.48:776][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.14-18.08.48:776][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.14-18.08.48:776][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.14-18.08.48:776][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.14-18.08.48:776][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.14-18.08.48:776][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.14-18.08.48:776][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.14-18.08.48:776][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.14-18.08.48:776][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.14-18.08.48:777][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.14-18.08.48:777][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.14-18.08.48:777][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.14-18.08.48:777][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.14-18.08.48:777][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Engine.ini]
+[2021.11.14-18.08.48:777][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.14-18.08.48:777][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.14-18.08.48:777][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.14-18.08.48:777][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.14-18.08.48:777][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.14-18.08.48:777][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.14-18.08.48:777][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.14-18.08.48:777][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.14-18.08.48:777][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.14-18.08.48:777][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.14-18.08.48:777][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.14-18.08.48:777][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.14-18.08.48:777][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.14-18.08.48:777][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.14-18.08.48:777][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Engine.ini]
+[2021.11.14-18.08.48:777][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Engine.ini]
+[2021.11.14-18.08.48:789][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.14-18.08.48:789][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.14-18.08.48:790][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.14-18.08.48:790][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.14-18.08.48:790][  0]LogHAL: Display: Platform has ~ 16 GB [16960446464 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.14-18.08.48:790][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.14-18.08.48:790][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.14-18.08.48:790][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.14-18.08.48:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.14-18.08.48:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.14-18.08.48:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.14-18.08.48:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.14-18.08.48:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.14-18.08.48:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.14-18.08.48:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.14-18.08.48:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.14-18.08.48:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.14-18.08.48:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.14-18.08.48:792][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-18.08.48:792][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.14-18.08.48:792][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.14-18.08.48:792][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-18.08.48:792][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.14-18.08.48:792][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.14-18.08.48:792][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.14-18.08.48:792][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.14-18.08.48:792][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.14-18.08.48:792][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.14-18.08.48:792][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.14-18.08.48:792][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Engine.ini]
+[2021.11.14-18.08.48:792][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Config/Windows/Editor.ini]
+[2021.11.14-18.08.48:792][  0]LogInit: Computer: DESKTOP-KG712DI
+[2021.11.14-18.08.48:792][  0]LogInit: User: jdhav
+[2021.11.14-18.08.48:792][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.11.14-18.08.48:792][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.14-18.08.48:792][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2021.11.14-18.08.48:792][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.14-18.08.48:792][  0]LogMemory: Process Physical Memory: 138.57 MB used, 138.57 MB peak
+[2021.11.14-18.08.48:792][  0]LogMemory: Process Virtual Memory: 112.57 MB used, 112.57 MB peak
+[2021.11.14-18.08.48:792][  0]LogMemory: Physical Memory: 9082.65 MB used,  7092.09 MB free, 16174.74 MB total
+[2021.11.14-18.08.48:792][  0]LogMemory: Virtual Memory: 134201712.00 MB used,  16016.07 MB free, 134217728.00 MB total
+[2021.11.14-18.08.48:797][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.14-18.08.48:847][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.14-18.08.48:848][  0]LogInit: Using OS detected language (en-US).
+[2021.11.14-18.08.48:848][  0]LogInit: Using OS detected locale (en-US).
+[2021.11.14-18.08.48:865][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.11.14-18.08.49:031][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.14-18.08.49:043][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.14-18.08.49:057][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.14-18.08.49:057][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.14-18.08.49:258][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.14-18.08.49:258][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.14-18.08.49:259][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.14-18.08.49:259][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.14-18.08.49:371][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (Feature Level 11_0)
+[2021.11.14-18.08.49:371][  0]LogD3D11RHI:       8031/0/8087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.11.14-18.08.49:414][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.11.14-18.08.49:414][  0]LogD3D11RHI:       128/0/8087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.11.14-18.08.49:416][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.14-18.08.49:416][  0]LogD3D11RHI:       0/0/8087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.14-18.08.49:416][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.14-18.08.49:424][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.14-18.08.49:424][  0]LogD3D11RHI:     GPU DeviceId: 0x1f10 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.14-18.08.49:424][  0]LogWindows: EnumDisplayDevices:
+[2021.11.14-18.08.49:424][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.11.14-18.08.49:425][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.11.14-18.08.49:425][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.11.14-18.08.49:426][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:1)
+[2021.11.14-18.08.49:426][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+[2021.11.14-18.08.49:426][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+[2021.11.14-18.08.49:426][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+[2021.11.14-18.08.49:427][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.11.14-18.08.49:427][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 with Max-Q Design
+[2021.11.14-18.08.49:427][  0]LogD3D11RHI:   Driver Version: 471.41 (internal:30.0.14.7141, unified:471.41)
+[2021.11.14-18.08.49:427][  0]LogD3D11RHI:      Driver Date: 7-12-2021
+[2021.11.14-18.08.49:427][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.11.14-18.08.49:510][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.14-18.08.49:510][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.14-18.08.49:510][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.14-18.08.49:535][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.14-18.08.49:537][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.14-18.08.49:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.14-18.08.49:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.14-18.08.49:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.14-18.08.49:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.14-18.08.49:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.14-18.08.49:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.14-18.08.49:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.14-18.08.49:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.14-18.08.49:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.14-18.08.49:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.14-18.08.49:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.14-18.08.49:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.14-18.08.49:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.14-18.08.49:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.14-18.08.49:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.14-18.08.49:923][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.14-18.08.49:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.14-18.08.49:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.14-18.08.49:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.14-18.08.49:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.14-18.08.49:974][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.14-18.08.49:974][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.14-18.08.49:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.14-18.08.49:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.14-18.08.49:996][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.14-18.08.50:003][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.14-18.08.50:016][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.14-18.08.50:016][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.14-18.08.50:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.14-18.08.50:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.14-18.08.50:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.14-18.08.50:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.14-18.08.50:047][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.14-18.08.50:053][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.14-18.08.50:105][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.14-18.08.50:105][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Intermediate/Shaders/WorkingDirectory/4532/).
+[2021.11.14-18.08.50:105][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jdhav/AppData/Local/Temp/UnrealShaderWorkingDir/0072CAB7474D311FB7BDB0B5AE257F87/'.
+[2021.11.14-18.08.50:106][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.14-18.08.50:106][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.14-18.08.50:808][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.14-18.08.50:867][  0]LogDerivedDataCache: Loaded boot cache 0.06s 99MB C:/Users/jdhav/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.14-18.08.50:867][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jdhav/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.11.14-18.08.50:867][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.14-18.08.50:867][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.14-18.08.50:868][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.14-18.08.50:868][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.14-18.08.50:879][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.14-18.08.50:879][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.14-18.08.50:879][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.14-18.08.50:885][  0]LogDerivedDataCache: Speed tests for C:/Users/jdhav/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.11.14-18.08.50:885][  0]LogDerivedDataCache: Display: Performance to C:/Users/jdhav/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=903.84MBs, RandomWriteSpeed=205.40MBs. Assigned SpeedClass 'Local'
+[2021.11.14-18.08.50:886][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jdhav/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.14-18.08.50:886][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.14-18.08.50:886][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.14-18.08.50:930][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.14-18.08.50:931][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.14-18.08.50:956][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2021.11.14-18.08.51:187][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.14-18.08.51:188][  0]LogInit: Active device profile: [000001F814B21900][000001F8118BB640 49] Windows
+[2021.11.14-18.08.51:188][  0]LogInit: Profiles: [000001F814B21900][000001F8118BB640 49] Windows, [000001F814AFF500][000001F876CCB780 49] WindowsNoEditor, [000001F814B23300][000001F876CCF8C0 49] WindowsServer, [000001F814AFD000][000001F876CD3A00 49] WindowsClient, [000001F814B21100][000001F876CD7B40 49] IOS, [000001F814AFF200][000001F876CDFCC0 49] iPadAir, [000001F814B23200][000001F876CE2180 49] iPadAir2, [000001F814AAA600][000001F876CEA440 49] IPadPro, [000001F814AAA700][000001F876CE6480 49] iPadAir3, [000001F814B23700][000001F8111B2600 49] iPadAir4, [000001F814AABC00][000001F8111B6780 49] iPadMini2, [000001F814B21F00][000001F8111BA900 49] iPadMini3, [000001F814AA9B00][000001F8111BEA80 49] iPadMini4, [000001F814B21C00][000001F8111C2C00 49] iPadMini5, [000001F814AD9F00][000001F8111CAEC0 49] iPhone6, [000001F814ADA000][000001F8111C6F00 49] iPodTouch6, [000001F814AFF300][000001F8111D31C0 49] iPhone7, [000001F814AFF400][000001F8111CF200 49] iPodTouch7, [000001F814ADB600][000001F8111D7380 49] iPhone5S, [000001F814AFD800][000001F8111DB500 49] iPhone6Plus, [000001F814AD9900][000001F8111DF680 49] iPhone6S, [000001F814AFFA00][000001F876CDB7C0 49] iPhone6SPlus, [000001F814AD8C00][000001F8111E3900 49] iPhone7Plus, [000001F814AFDD00][000001F8111E7A40 49] iPhoneSE, [000001F814AD9200][000001F8111EBB80 49] iPhone8, [000001F814AFF000][000001F8111F3D00 49] iPhone8Plus, [000001F814AD8700][000001F8111F61C0 49] iPhoneX, [000001F814AFD200][000001F8111FA340 49] iPhoneXS, [000001F814ADA500][000001F8111FE4C0 49] iPhoneXSMax, [000001F814AFC700][000001F811202640 49] iPhoneXR, [000001F814ADB000][000001F8112067C0 49] iPhone11, [000001F814AFE900][000001F81120A940 49] iPhone11Pro, [000001F814AD9800][000001F81120EAC0 49] iPhone11ProMax, [000001F814AFDF00][000001F811212C40 49] iPhoneSE2, [000001F814ADBC00][000001F811216DC0 49] iPhone12Mini, [000001F814AFDE00][000001F81121AF40 49] iPhone12, [000001F814B23A00][000001F81121F0C0 49] iPhone12Pro, [000001F814AD9700][000001F811223240 49] iPhone12ProMax, [000001F814B23C00][000001F8112273C0 49] iPadPro105, [000001F814AD8E00][000001F81122B540 49] iPadPro129, [000001F814B22D00][000001F81122F6C0 49] iPadPro97, [000001F814ADAC00][000001F811233840 49] iPadPro2_129, [000001F814AFD700][000001F8111EF980 49] iPad5, [000001F814ADB800][000001F811237AC0 49] iPad6, [000001F814AFFF00][000001F81123BC00 49] iPad7, [000001F814ADBB00][000001F8112540C0 49] iPad8, [000001F814AFCC00][000001F811258240 49] iPadPro11, [000001F814AD8B00][000001F81125C3C0 49] iPadPro2_11, [000001F814AFEF00][000001F81126C540 49] iPadPro3_129, [000001F814AD8100][000001F8113006C0 49] iPadPro4_129, [000001F814AFF100][000001F811394840 49] AppleTV, [000001F814AD9100][000001F81139C9C0 49] AppleTV4K, [000001F814AFC100][000001F8113A0B40 49] TVOS, [000001F814AD8500][000001F8113A4CC0 49] Mac, [000001F814AFEC00][000001F8113A8E40 49] MacClient, [000001F814ADBF00][000001F8113BCFC0 49] MacNoEditor, [000001F814AFF900][000001F8113C1140 49] MacServer, [000001F814ADB100][000001F8113C52C0 49] Linux, [000001F814AFFC00][000001F8113C9440 49] LinuxAArch64, [000001F814ADA100][000001F8113CD5C0 49] LinuxNoEditor, [000001F814AFE300][000001F8113D1740 49] LinuxAArch64NoEditor, [000001F814AD9400][000001F8113F18C0 49] LinuxClient, [000001F814AFC200][000001F811251A00 49] LinuxAArch64Client, [000001F814ADA600][000001F81141BB40 49] LinuxServer, [000001F814AFDC00][000001F81141FC80 49] LinuxAArch64Server, [000001F814ADAD00][000001F811422100 49] Android, [000001F814AFCE00][000001F81142A280 49] Android_Low, [000001F814AD9500][000001F81142E400 49] Android_Mid, [000001F814AFE700][000001F811432580 49] Android_High, [000001F814ADA700][000001F811436700 49] Android_Default, [000001F814AFD900][000001F81147A880 49] Android_Adreno4xx, [000001F814AD8A00][000001F8150F4A00 49] Android_Adreno5xx_Low, [000001F814AFD100][000001F816A0AB80 49] Android_Adreno5xx, [000001F814AD8800][000001F816A12D00 49] Android_Adreno6xx, [000001F814AFED00][000001F816A16E80 49] Android_Adreno6xx_Vulkan, [000001F814ADA800][000001F816A1B000 49] Android_Mali_T6xx, [000001F814AFD600][000001F816A1F180 49] Android_Mali_T7xx, [000001F814ADB500][000001F816A29300 49] Android_Mali_T8xx, [000001F814AFE400][000001F816A2D480 49] Android_Mali_G71, [000001F814AD8F00][000001F816A31600 49] Android_Mali_G72, [000001F814AFCD00][000001F816A35780 49] Android_Mali_G72_Vulkan, [000001F814ADAF00][000001F816A39900 49] Android_Mali_G76, [000001F814AFD300][000001F811427A40 49] Android_Mali_G76_Vulkan, [000001F814AD9B00][000001F816A3DB80 49] Android_Mali_G77, [000001F814AAAE00][000001F816A41CC0 49] Android_Mali_G77_Vulkan, [000001F814B23900][000001F816A44140 49] Android_Vulkan_SM5, [000001F814AA8800][000001F816A4C2C0 49] Android_PowerVR_G6xxx, [000001F814B23400][000001F816A50440 49] Android_PowerVR_GT7xxx, [000001F814AA8E00][000001F816A545C0 49] Android_PowerVR_GE8xxx, [000001F814B21300][000001F816A5C740 49] Android_PowerVR_GM9xxx, [000001F814AA8900][000001F816A608C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001F814B21E00][000001F816A64A40 49] Android_TegraK1, [000001F814AA8C00][000001F816A68BC0 49] Android_Unknown_Vulkan, [000001F814B20200][000001F816A6CD40 49] Lumin, [000001F814AA9000][000001F816A70EC0 49] Lumin_Desktop, [000001F814B21700][000001F816AE9040 49] HoloLens, 
+[2021.11.14-18.08.51:310][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.14-18.08.51:310][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.14-18.08.51:310][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.14-18.08.51:310][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.14-18.08.51:310][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.14-18.08.51:328][  0]LogNetVersion: Palette_Project 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4135397770)
+[2021.11.14-18.08.51:750][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.14-18.08.51:795][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.043364 seconds
+[2021.11.14-18.08.51:799][  0]LogUObjectArray: 16832 objects as part of root set at end of initial load.
+[2021.11.14-18.08.51:799][  0]LogUObjectAllocator: 4209936 out of 0 bytes used by permanent object pool.
+[2021.11.14-18.08.51:799][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.14-18.08.52:025][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.14-18.08.52:031][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.14-18.08.52:178][  0]SourceControl: Source control is disabled
+[2021.11.14-18.08.52:178][  0]SourceControl: Source control is disabled
+[2021.11.14-18.08.52:180][  0]SourceControl: Source control is disabled
+[2021.11.14-18.08.52:189][  0]SourceControl: Source control is disabled
+[2021.11.14-18.08.52:191][  0]SourceControl: Source control is disabled
+[2021.11.14-18.08.52:195][  0]LogUProjectInfo: Found projects:
+[2021.11.14-18.08.52:338][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.14-18.08.52:352][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.14-18.08.52:352][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.14-18.08.52:445][  0]LogOcInput: OculusInput pre-init called
+[2021.11.14-18.08.52:454][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.11.14-18.08.52:454][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.11.14-18.08.52:459][  0]LogCollectionManager: Loaded 0 collections in 0.000559 seconds
+[2021.11.14-18.08.52:506][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Saved/Collections/' took 0.00s
+[2021.11.14-18.08.52:507][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Developers/jdhav/Collections/' took 0.00s
+[2021.11.14-18.08.52:507][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Collections/' took 0.00s
+[2021.11.14-18.08.52:507][  0]LogEngine: Initializing Engine...
+[2021.11.14-18.08.52:507][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.14-18.08.52:507][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.14-18.08.52:508][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.14-18.08.52:642][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.14-18.08.52:647][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.14-18.08.52:648][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.14-18.08.52:651][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.14-18.08.52:651][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.14-18.08.52:651][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.14-18.08.52:651][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.14-18.08.52:651][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.14-18.08.52:651][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.14-18.08.52:651][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.14-18.08.52:651][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.14-18.08.52:652][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.14-18.08.52:652][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.14-18.08.52:652][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.14-18.08.52:652][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.14-18.08.52:678][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.14-18.08.52:678][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.14-18.08.52:709][  0]LogAudioMixer: Display: Using Audio Device Headphones (JVC HA-EC25W Stereo)
+[2021.11.14-18.08.52:710][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.14-18.08.52:711][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.14-18.08.52:711][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.14-18.08.52:712][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.14-18.08.52:712][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.14-18.08.52:712][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.14-18.08.52:713][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.14-18.08.52:713][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.14-18.08.52:713][  0]LogInit: FAudioDevice initialized.
+[2021.11.14-18.08.52:713][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.14-18.08.52:713][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.14-18.08.52:793][  0]LogDerivedDataCache: Saved boot cache 0.08s 99MB C:/Users/jdhav/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.14-18.08.52:797][  0]LogInit: Texture streaming: Enabled
+[2021.11.14-18.08.52:808][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.11.14-18.08.52:814][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.14-18.08.52:814][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.14-18.08.52:826][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.14-18.08.52:857][  0]LogInit: Transaction tracking system initialized
+[2021.11.14-18.08.52:874][  0]BlueprintLog: New page: Editor Load
+[2021.11.14-18.08.52:929][  0]LocalizationService: Localization service is disabled
+[2021.11.14-18.08.52:948][  0]TimingProfiler: Initialize
+[2021.11.14-18.08.52:948][  0]TimingProfiler: OnSessionChanged
+[2021.11.14-18.08.52:948][  0]LoadingProfiler: Initialize
+[2021.11.14-18.08.52:948][  0]LoadingProfiler: OnSessionChanged
+[2021.11.14-18.08.52:948][  0]NetworkingProfiler: Initialize
+[2021.11.14-18.08.52:948][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.14-18.08.52:948][  0]MemoryProfiler: Initialize
+[2021.11.14-18.08.52:948][  0]MemoryProfiler: OnSessionChanged
+[2021.11.14-18.08.53:068][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.14-18.08.53:068][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.14-18.08.53:203][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/' took 0.04s
+[2021.11.14-18.08.53:377][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.14-18.08.53:384][  0]SourceControl: Source control is disabled
+[2021.11.14-18.08.53:384][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.455
+[2021.11.14-18.08.53:384][  0]Cmd: MAP LOAD FILE="C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.14-18.08.53:385][  0]LogEditorServer: Warning: Can't find file 'C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.11.14-18.08.53:385][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.14-18.08.53:385][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.167ms to complete.
+[2021.11.14-18.08.53:385][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.001
+[2021.11.14-18.08.53:387][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.458
+[2021.11.14-18.08.53:534][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-18.08.53:540][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-18.08.53:546][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-18.08.53:551][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-18.08.53:572][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0082 seconds. Added 3601 classes and 859 folders.
+[2021.11.14-18.08.53:579][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.14-18.08.53:584][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.14-18.08.53:584][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:584][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.14-18.08.53:584][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.11.14-18.08.53:588][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.14-18.08.53:588][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:588][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.14-18.08.53:588][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.11.14-18.08.53:589][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.14-18.08.53:589][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:589][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.14-18.08.53:589][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.11.14-18.08.53:591][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.14-18.08.53:591][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:591][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.14-18.08.53:591][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.11.14-18.08.53:593][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.14-18.08.53:593][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:593][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.14-18.08.53:593][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.11.14-18.08.53:594][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.14-18.08.53:594][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:594][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.14-18.08.53:594][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.11.14-18.08.53:596][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.14-18.08.53:596][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:596][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.14-18.08.53:596][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.11.14-18.08.53:598][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.14-18.08.53:598][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:598][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.14-18.08.53:598][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.11.14-18.08.53:599][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.14-18.08.53:599][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:599][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.14-18.08.53:599][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.11.14-18.08.53:600][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.14-18.08.53:600][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:600][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.14-18.08.53:600][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.11.14-18.08.53:602][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.14-18.08.53:602][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:602][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.14-18.08.53:602][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.14-18.08.53:603][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.14-18.08.53:603][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:603][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.14-18.08.53:603][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.11.14-18.08.53:605][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.14-18.08.53:605][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:605][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.14-18.08.53:605][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.11.14-18.08.53:607][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.14-18.08.53:607][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:607][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.14-18.08.53:607][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.11.14-18.08.53:608][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.14-18.08.53:608][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:608][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.14-18.08.53:608][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.14-18.08.53:610][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.14-18.08.53:610][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.14-18.08.53:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.11.14-18.08.53:611][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.14-18.08.53:611][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:611][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.14-18.08.53:611][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.11.14-18.08.53:613][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.14-18.08.53:613][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:613][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.14-18.08.53:613][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.11.14-18.08.53:614][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.14-18.08.53:614][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:614][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.14-18.08.53:615][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.14-18.08.53:616][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.14-18.08.53:616][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:617][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.14-18.08.53:617][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.11.14-18.08.53:618][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.14-18.08.53:618][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:618][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.14-18.08.53:618][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.11.14-18.08.53:620][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.14-18.08.53:620][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:620][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.14-18.08.53:620][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.11.14-18.08.53:622][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.14-18.08.53:622][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:622][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.14-18.08.53:622][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.11.14-18.08.53:624][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.14-18.08.53:624][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:624][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.14-18.08.53:624][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.11.14-18.08.53:625][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.14-18.08.53:625][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:625][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.14-18.08.53:625][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.11.14-18.08.53:627][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.14-18.08.53:627][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-18.08.53:627][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.14-18.08.53:627][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.11.14-18.08.53:723][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.14-18.08.53:724][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.11.14-18.08.53:903][  0]LogSlate: Took 0.001066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.14-18.08.53:905][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.14-18.08.53:909][  0]LogSlate: Took 0.000489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.14-18.08.54:000][  0]LogRenderer: Reallocating scene render targets to support 1260x624 Format 10 NumSamples 1 (Frame:1).
+[2021.11.14-18.08.54:420][  0]LogSlate: Took 0.000715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.14-18.08.54:482][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.14-18.08.54:482][  0]LogInput: Warning: Action SetDestination uses invalid key OculusGo_Left_Trigger_Click.
+[2021.11.14-18.08.54:482][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2021.11.14-18.08.54:482][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.11.14-18.08.54:482][  0]LogLoad: (Engine Initialization) Total time: 6.55 seconds
+[2021.11.14-18.08.54:482][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.14-18.08.54:482][  0]LogInit: First time updating LLM stats...
+[2021.11.14-18.08.54:547][  0]LogAssetRegistry: Asset discovery search completed in 3.5919 seconds
+[2021.11.14-18.08.54:549][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.11.14-18.08.54:571][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.14-18.08.54:610][  1]LogRenderer: Reallocating scene render targets to support 1260x640 Format 10 NumSamples 1 (Frame:3).
+[2021.11.14-18.41.00:014][  4]LogEditorViewport: Clicking Background
+[2021.11.14-18.41.28:985][738]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.14-18.41.29:423][738]LogStaticMesh: Building static mesh Alchemist_table...
+[2021.11.14-18.41.29:510][738]LogStaticMesh: Built static mesh [0.09s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Alchemist_table.Alchemist_table
+[2021.11.14-18.41.29:520][738]LogStaticMesh: Building static mesh Ambry...
+[2021.11.14-18.41.29:574][738]LogStaticMesh: Built static mesh [0.05s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Ambry.Ambry
+[2021.11.14-18.41.29:579][738]LogStaticMesh: Building static mesh Ambry_door...
+[2021.11.14-18.41.29:589][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Ambry_door.Ambry_door
+[2021.11.14-18.41.29:596][738]LogStaticMesh: Building static mesh Apple...
+[2021.11.14-18.41.29:602][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Apple.Apple
+[2021.11.14-18.41.29:607][738]LogStaticMesh: Building static mesh Armchair...
+[2021.11.14-18.41.29:682][738]LogMeshUtilities: Finished distance field build in 0.1s - 21x21x21 distance field, 608 triangles, Range [-0.1, 1.0], Alchemist_table
+[2021.11.14-18.41.29:682][738]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 184 triangles, Range [-0.4, 0.9], Apple
+[2021.11.14-18.41.29:682][738]LogMeshUtilities: Finished distance field build in 0.0s - 9x8x9 distance field, 200 triangles, Range [-0.0, 0.5], Ambry_door
+[2021.11.14-18.41.29:682][738]LogStaticMesh: Built static mesh [0.08s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Armchair.Armchair
+[2021.11.14-18.41.29:693][738]LogStaticMesh: Building static mesh Balcony...
+[2021.11.14-18.41.29:701][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Balcony.Balcony
+[2021.11.14-18.41.29:705][738]LogStaticMesh: Building static mesh Balcony_corner...
+[2021.11.14-18.41.29:718][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Balcony_corner.Balcony_corner
+[2021.11.14-18.41.29:722][738]LogStaticMesh: Building static mesh Bed...
+[2021.11.14-18.41.29:786][738]LogMeshUtilities: Finished distance field build in 0.1s - 24x14x14 distance field, 424 triangles, Range [-0.1, 0.5], Ambry
+[2021.11.14-18.41.29:786][738]LogStaticMesh: Built static mesh [0.06s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Bed.Bed
+[2021.11.14-18.41.29:790][738]LogStaticMesh: Building static mesh Blinds...
+[2021.11.14-18.41.29:825][738]LogStaticMesh: Built static mesh [0.04s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Blinds.Blinds
+[2021.11.14-18.41.29:829][738]LogStaticMesh: Building static mesh Board_large...
+[2021.11.14-18.41.29:831][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Board_large.Board_large
+[2021.11.14-18.41.29:834][738]LogStaticMesh: Building static mesh Board_small...
+[2021.11.14-18.41.29:837][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Board_small.Board_small
+[2021.11.14-18.41.29:840][738]LogStaticMesh: Building static mesh Bookcase...
+[2021.11.14-18.41.29:902][738]LogStaticMesh: Built static mesh [0.06s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Bookcase.Bookcase
+[2021.11.14-18.41.29:907][738]LogStaticMesh: Building static mesh Book_1...
+[2021.11.14-18.41.29:910][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Book_1.Book_1
+[2021.11.14-18.41.29:913][738]LogStaticMesh: Building static mesh Book_2...
+[2021.11.14-18.41.29:917][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Book_2.Book_2
+[2021.11.14-18.41.29:919][738]LogStaticMesh: Building static mesh Book_3...
+[2021.11.14-18.41.29:924][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Book_3.Book_3
+[2021.11.14-18.41.29:927][738]LogStaticMesh: Building static mesh Book_4...
+[2021.11.14-18.41.29:931][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Book_4.Book_4
+[2021.11.14-18.41.29:934][738]LogStaticMesh: Building static mesh Book_5...
+[2021.11.14-18.41.29:938][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Book_5.Book_5
+[2021.11.14-18.41.29:942][738]LogStaticMesh: Building static mesh Book_6...
+[2021.11.14-18.41.29:946][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Book_6.Book_6
+[2021.11.14-18.41.29:949][738]LogStaticMesh: Building static mesh Book_7...
+[2021.11.14-18.41.29:953][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Book_7.Book_7
+[2021.11.14-18.41.29:956][738]LogStaticMesh: Building static mesh Book_closed...
+[2021.11.14-18.41.29:971][738]LogStaticMesh: Built static mesh [0.02s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Book_closed.Book_closed
+[2021.11.14-18.41.29:974][738]LogStaticMesh: Building static mesh Book_opened...
+[2021.11.14-18.41.29:988][738]LogStaticMesh: Built static mesh [0.02s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Book_opened.Book_opened
+[2021.11.14-18.41.29:991][738]LogStaticMesh: Building static mesh Bread_part_1...
+[2021.11.14-18.41.29:999][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Bread_part_1.Bread_part_1
+[2021.11.14-18.41.30:002][738]LogStaticMesh: Building static mesh Bread_part_2...
+[2021.11.14-18.41.30:007][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Bread_part_2.Bread_part_2
+[2021.11.14-18.41.30:009][738]LogStaticMesh: Building static mesh Broccoli...
+[2021.11.14-18.41.30:013][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Broccoli.Broccoli
+[2021.11.14-18.41.30:016][738]LogStaticMesh: Building static mesh Candlestick...
+[2021.11.14-18.41.30:029][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Candlestick.Candlestick
+[2021.11.14-18.41.30:032][738]LogStaticMesh: Building static mesh Candle_1...
+[2021.11.14-18.41.30:040][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Candle_1.Candle_1
+[2021.11.14-18.41.30:043][738]LogStaticMesh: Building static mesh Candle_2...
+[2021.11.14-18.41.30:048][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Candle_2.Candle_2
+[2021.11.14-18.41.30:051][738]LogStaticMesh: Building static mesh Candle_3...
+[2021.11.14-18.41.30:057][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Candle_3.Candle_3
+[2021.11.14-18.41.30:060][738]LogStaticMesh: Building static mesh Candle_4...
+[2021.11.14-18.41.30:065][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Candle_4.Candle_4
+[2021.11.14-18.41.30:068][738]LogStaticMesh: Building static mesh Candle_wax...
+[2021.11.14-18.41.30:071][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Candle_wax.Candle_wax
+[2021.11.14-18.41.30:074][738]LogStaticMesh: Building static mesh Carpet...
+[2021.11.14-18.41.30:092][738]LogStaticMesh: Built static mesh [0.02s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Carpet.Carpet
+[2021.11.14-18.41.30:095][738]LogStaticMesh: Building static mesh Carpet_1_1...
+[2021.11.14-18.41.30:104][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Carpet_1_1.Carpet_1_1
+[2021.11.14-18.41.30:107][738]LogStaticMesh: Building static mesh Carpet_2_1...
+[2021.11.14-18.41.30:112][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Carpet_2_1.Carpet_2_1
+[2021.11.14-18.41.30:121][738]LogStaticMesh: Building static mesh Carpet_long...
+[2021.11.14-18.41.30:127][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Carpet_long.Carpet_long
+[2021.11.14-18.41.30:129][738]LogStaticMesh: Building static mesh Carrot...
+[2021.11.14-18.41.30:134][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Carrot.Carrot
+[2021.11.14-18.41.30:137][738]LogStaticMesh: Building static mesh Ceiling_2_2...
+[2021.11.14-18.41.30:139][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Ceiling_2_2.Ceiling_2_2
+[2021.11.14-18.41.30:141][738]LogStaticMesh: Building static mesh Ceiling_round...
+[2021.11.14-18.41.30:146][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Ceiling_round.Ceiling_round
+[2021.11.14-18.41.30:149][738]LogStaticMesh: Building static mesh Chair...
+[2021.11.14-18.41.30:203][738]LogStaticMesh: Built static mesh [0.05s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Chair.Chair
+[2021.11.14-18.41.30:207][738]LogStaticMesh: Building static mesh Cheese...
+[2021.11.14-18.41.30:216][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Cheese.Cheese
+[2021.11.14-18.41.30:218][738]LogStaticMesh: Building static mesh Cheese_part...
+[2021.11.14-18.41.30:223][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Cheese_part.Cheese_part
+[2021.11.14-18.41.30:226][738]LogStaticMesh: Building static mesh Chest...
+[2021.11.14-18.41.30:368][738]LogMeshUtilities: Finished distance field build in 0.5s - 45x42x19 distance field, 352 triangles, Range [-0.0, 1.0], Balcony_corner
+[2021.11.14-18.41.30:368][738]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 40 triangles, Range [-0.3, 0.9], Cheese_part
+[2021.11.14-18.41.30:368][738]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 136 triangles, Range [-0.1, 0.9], Cheese
+[2021.11.14-18.41.30:368][738]LogMeshUtilities: Finished distance field build in 0.0s - 9x11x16 distance field, 584 triangles, Range [-0.0, 1.0], Chair
+[2021.11.14-18.41.30:368][738]LogStaticMesh: Built static mesh [0.14s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Chest.Chest
+[2021.11.14-18.41.30:374][738]LogStaticMesh: Building static mesh Chest_cover...
+[2021.11.14-18.41.30:412][738]LogStaticMesh: Built static mesh [0.04s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Chest_cover.Chest_cover
+[2021.11.14-18.41.30:416][738]LogStaticMesh: Building static mesh Chicken...
+[2021.11.14-18.41.30:435][738]LogStaticMesh: Built static mesh [0.02s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Chicken.Chicken
+[2021.11.14-18.41.30:440][738]LogStaticMesh: Building static mesh Cup...
+[2021.11.14-18.41.30:463][738]LogStaticMesh: Built static mesh [0.02s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Cup.Cup
+[2021.11.14-18.41.30:467][738]LogStaticMesh: Building static mesh Door_1...
+[2021.11.14-18.41.30:496][738]LogStaticMesh: Built static mesh [0.03s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Door_1.Door_1
+[2021.11.14-18.41.30:501][738]LogStaticMesh: Building static mesh Door_aperture_1...
+[2021.11.14-18.41.30:506][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Door_aperture_1.Door_aperture_1
+[2021.11.14-18.41.30:509][738]LogStaticMesh: Building static mesh Fireplace...
+[2021.11.14-18.41.30:557][738]LogStaticMesh: Built static mesh [0.05s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Fireplace.Fireplace
+[2021.11.14-18.41.30:561][738]LogStaticMesh: Building static mesh Flag...
+[2021.11.14-18.41.30:573][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Flag.Flag
+[2021.11.14-18.41.30:584][738]LogStaticMesh: Building static mesh Flame_plane...
+[2021.11.14-18.41.30:585][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Flame_plane.Flame_plane
+[2021.11.14-18.41.30:588][738]LogStaticMesh: Building static mesh Flask_1...
+[2021.11.14-18.41.30:600][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Flask_1.Flask_1
+[2021.11.14-18.41.30:604][738]LogStaticMesh: Building static mesh Flask_2...
+[2021.11.14-18.41.30:619][738]LogStaticMesh: Built static mesh [0.02s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Flask_2.Flask_2
+[2021.11.14-18.41.30:622][738]LogStaticMesh: Building static mesh Flask_cover...
+[2021.11.14-18.41.30:626][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Flask_cover.Flask_cover
+[2021.11.14-18.41.30:629][738]LogStaticMesh: Building static mesh Floor_1...
+[2021.11.14-18.41.30:630][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Floor_1.Floor_1
+[2021.11.14-18.41.30:632][738]LogStaticMesh: Building static mesh Floor_2...
+[2021.11.14-18.41.30:633][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Floor_2.Floor_2
+[2021.11.14-18.41.30:636][738]LogStaticMesh: Building static mesh Floor_3...
+[2021.11.14-18.41.30:636][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Floor_3.Floor_3
+[2021.11.14-18.41.30:639][738]LogStaticMesh: Building static mesh Floor_5...
+[2021.11.14-18.41.30:640][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Floor_5.Floor_5
+[2021.11.14-18.41.30:642][738]LogStaticMesh: Building static mesh Floor_6...
+[2021.11.14-18.41.30:643][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Floor_6.Floor_6
+[2021.11.14-18.41.30:645][738]LogStaticMesh: Building static mesh Floor_7...
+[2021.11.14-18.41.30:646][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Floor_7.Floor_7
+[2021.11.14-18.41.30:648][738]LogStaticMesh: Building static mesh Floor_8...
+[2021.11.14-18.41.30:649][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Floor_8.Floor_8
+[2021.11.14-18.41.30:651][738]LogStaticMesh: Building static mesh Garlic...
+[2021.11.14-18.41.30:721][738]LogStaticMesh: Built static mesh [0.07s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Garlic.Garlic
+[2021.11.14-18.41.30:729][738]LogStaticMesh: Building static mesh Gas-jet...
+[2021.11.14-18.41.30:795][738]LogStaticMesh: Built static mesh [0.07s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Gas-jet.Gas-jet
+[2021.11.14-18.41.30:799][738]LogStaticMesh: Building static mesh Ham...
+[2021.11.14-18.41.30:807][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Ham.Ham
+[2021.11.14-18.41.30:811][738]LogStaticMesh: Building static mesh Ink_bottle...
+[2021.11.14-18.41.30:824][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Ink_bottle.Ink_bottle
+[2021.11.14-18.41.30:827][738]LogStaticMesh: Building static mesh Lighter...
+[2021.11.14-18.41.30:858][738]LogStaticMesh: Built static mesh [0.03s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Lighter.Lighter
+[2021.11.14-18.41.30:862][738]LogStaticMesh: Building static mesh Lighter_2...
+[2021.11.14-18.41.30:871][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Lighter_2.Lighter_2
+[2021.11.14-18.41.30:874][738]LogStaticMesh: Building static mesh Lighter_2_1...
+[2021.11.14-18.41.30:879][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Lighter_2_1.Lighter_2_1
+[2021.11.14-18.41.30:882][738]LogStaticMesh: Building static mesh Lighter_2_2...
+[2021.11.14-18.41.30:886][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Lighter_2_2.Lighter_2_2
+[2021.11.14-18.41.30:889][738]LogStaticMesh: Building static mesh Lighter_2_3...
+[2021.11.14-18.41.30:951][738]LogStaticMesh: Built static mesh [0.06s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Lighter_2_3.Lighter_2_3
+[2021.11.14-18.41.30:957][738]LogStaticMesh: Building static mesh Mortar...
+[2021.11.14-18.41.30:968][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Mortar.Mortar
+[2021.11.14-18.41.30:971][738]LogStaticMesh: Building static mesh Mortar_1...
+[2021.11.14-18.41.30:976][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Mortar_1.Mortar_1
+[2021.11.14-18.41.30:979][738]LogStaticMesh: Building static mesh Pie...
+[2021.11.14-18.41.30:998][738]LogStaticMesh: Built static mesh [0.02s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Pie.Pie
+[2021.11.14-18.41.31:002][738]LogStaticMesh: Building static mesh Pillar_1_1...
+[2021.11.14-18.41.31:004][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Pillar_1_1.Pillar_1_1
+[2021.11.14-18.41.31:006][738]LogStaticMesh: Building static mesh Pillar_2_1...
+[2021.11.14-18.41.31:018][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Pillar_2_1.Pillar_2_1
+[2021.11.14-18.41.31:022][738]LogStaticMesh: Building static mesh Pillar_3_1...
+[2021.11.14-18.41.31:028][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Pillar_3_1.Pillar_3_1
+[2021.11.14-18.41.31:031][738]LogStaticMesh: Building static mesh Pillar_4_1...
+[2021.11.14-18.41.31:033][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Pillar_4_1.Pillar_4_1
+[2021.11.14-18.41.31:035][738]LogStaticMesh: Building static mesh Plant...
+[2021.11.14-18.41.31:066][738]LogStaticMesh: Built static mesh [0.03s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Plant.Plant
+[2021.11.14-18.41.31:070][738]LogStaticMesh: Building static mesh Plate...
+[2021.11.14-18.41.31:073][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Plate.Plate
+[2021.11.14-18.41.31:076][738]LogStaticMesh: Building static mesh Potion_1...
+[2021.11.14-18.41.31:086][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Potion_1.Potion_1
+[2021.11.14-18.41.31:090][738]LogStaticMesh: Building static mesh Potion_2...
+[2021.11.14-18.41.31:102][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Potion_2.Potion_2
+[2021.11.14-18.41.31:105][738]LogStaticMesh: Building static mesh Potion_3...
+[2021.11.14-18.41.31:124][738]LogStaticMesh: Built static mesh [0.02s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Potion_3.Potion_3
+[2021.11.14-18.41.31:128][738]LogStaticMesh: Building static mesh Potion_4...
+[2021.11.14-18.41.31:145][738]LogStaticMesh: Built static mesh [0.02s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Potion_4.Potion_4
+[2021.11.14-18.41.31:148][738]LogStaticMesh: Building static mesh Potion_5...
+[2021.11.14-18.41.31:159][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Potion_5.Potion_5
+[2021.11.14-18.41.31:170][738]LogStaticMesh: Building static mesh Pumpkin...
+[2021.11.14-18.41.31:181][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Pumpkin.Pumpkin
+[2021.11.14-18.41.31:185][738]LogStaticMesh: Building static mesh Rack...
+[2021.11.14-18.41.31:239][738]LogStaticMesh: Built static mesh [0.05s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Rack.Rack
+[2021.11.14-18.41.31:243][738]LogStaticMesh: Building static mesh Railing...
+[2021.11.14-18.41.31:260][738]LogStaticMesh: Built static mesh [0.02s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Railing.Railing
+[2021.11.14-18.41.31:263][738]LogStaticMesh: Building static mesh Railing_2...
+[2021.11.14-18.41.31:274][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Railing_2.Railing_2
+[2021.11.14-18.41.31:278][738]LogStaticMesh: Building static mesh Railing_corner...
+[2021.11.14-18.41.31:307][738]LogStaticMesh: Built static mesh [0.03s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Railing_corner.Railing_corner
+[2021.11.14-18.41.31:311][738]LogStaticMesh: Building static mesh Scroll_1...
+[2021.11.14-18.41.31:330][738]LogStaticMesh: Built static mesh [0.02s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Scroll_1.Scroll_1
+[2021.11.14-18.41.31:334][738]LogStaticMesh: Building static mesh Scroll_2...
+[2021.11.14-18.41.31:340][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Scroll_2.Scroll_2
+[2021.11.14-18.41.31:345][738]LogStaticMesh: Building static mesh Scroll_3...
+[2021.11.14-18.41.31:363][738]LogStaticMesh: Built static mesh [0.02s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Scroll_3.Scroll_3
+[2021.11.14-18.41.31:367][738]LogStaticMesh: Building static mesh Shelf...
+[2021.11.14-18.41.31:383][738]LogStaticMesh: Built static mesh [0.02s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Shelf.Shelf
+[2021.11.14-18.41.31:386][738]LogStaticMesh: Building static mesh Stairs...
+[2021.11.14-18.41.31:439][738]LogStaticMesh: Built static mesh [0.05s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Stairs.Stairs
+[2021.11.14-18.41.31:442][738]LogStaticMesh: Building static mesh Stairs_round...
+[2021.11.14-18.41.31:463][738]LogStaticMesh: Built static mesh [0.02s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Stairs_round.Stairs_round
+[2021.11.14-18.41.31:466][738]LogStaticMesh: Building static mesh Stand...
+[2021.11.14-18.41.31:495][738]LogStaticMesh: Built static mesh [0.03s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Stand.Stand
+[2021.11.14-18.41.31:498][738]LogStaticMesh: Building static mesh Table...
+[2021.11.14-18.41.31:543][738]LogStaticMesh: Built static mesh [0.04s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Table.Table
+[2021.11.14-18.41.31:546][738]LogStaticMesh: Building static mesh Tablecloth...
+[2021.11.14-18.41.31:548][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Tablecloth.Tablecloth
+[2021.11.14-18.41.31:550][738]LogStaticMesh: Building static mesh Table_round...
+[2021.11.14-18.41.31:564][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Table_round.Table_round
+[2021.11.14-18.41.31:568][738]LogStaticMesh: Building static mesh Vase_1...
+[2021.11.14-18.41.31:578][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Vase_1.Vase_1
+[2021.11.14-18.41.31:581][738]LogStaticMesh: Building static mesh Vase_2...
+[2021.11.14-18.41.31:591][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Vase_2.Vase_2
+[2021.11.14-18.41.31:594][738]LogStaticMesh: Building static mesh Vase_3...
+[2021.11.14-18.41.31:601][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Vase_3.Vase_3
+[2021.11.14-18.41.31:605][738]LogStaticMesh: Building static mesh Vase_4...
+[2021.11.14-18.41.31:614][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Vase_4.Vase_4
+[2021.11.14-18.41.31:616][738]LogStaticMesh: Building static mesh Wall_1_0...
+[2021.11.14-18.41.31:628][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_1_0.Wall_1_0
+[2021.11.14-18.41.31:630][738]LogMeshUtilities: Finished distance field build in 1.3s - 64x45x36 distance field, 188 triangles, Range [-0.0, 1.0], Ceiling_round
+[2021.11.14-18.41.31:631][738]LogStaticMesh: Building static mesh Wall_1_1...
+[2021.11.14-18.41.31:671][738]LogStaticMesh: Built static mesh [0.04s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_1_1.Wall_1_1
+[2021.11.14-18.41.31:674][738]LogStaticMesh: Building static mesh Wall_1_2...
+[2021.11.14-18.41.31:696][738]LogStaticMesh: Built static mesh [0.02s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_1_2.Wall_1_2
+[2021.11.14-18.41.31:699][738]LogStaticMesh: Building static mesh Wall_2_1...
+[2021.11.14-18.41.31:731][738]LogStaticMesh: Built static mesh [0.03s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_2_1.Wall_2_1
+[2021.11.14-18.41.31:736][738]LogStaticMesh: Building static mesh Wall_3_1...
+[2021.11.14-18.41.31:778][738]LogStaticMesh: Built static mesh [0.04s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_3_1.Wall_3_1
+[2021.11.14-18.41.31:781][738]LogStaticMesh: Building static mesh Wall_4_1...
+[2021.11.14-18.41.31:867][738]LogMeshUtilities: Finished distance field build in 0.2s - 30x9x45 distance field, 42 triangles, Range [-0.1, 0.5], Wall_1_0
+[2021.11.14-18.41.31:867][738]LogStaticMesh: Built static mesh [0.09s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_4_1.Wall_4_1
+[2021.11.14-18.41.31:870][738]LogStaticMesh: Building static mesh Wall_5_1...
+[2021.11.14-18.41.31:898][738]LogStaticMesh: Built static mesh [0.03s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_5_1.Wall_5_1
+[2021.11.14-18.41.31:901][738]LogStaticMesh: Building static mesh Wall_6_1...
+[2021.11.14-18.41.31:922][738]LogStaticMesh: Built static mesh [0.02s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_6_1.Wall_6_1
+[2021.11.14-18.41.31:926][738]LogStaticMesh: Building static mesh Wall_7_1...
+[2021.11.14-18.41.31:954][738]LogStaticMesh: Built static mesh [0.03s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_7_1.Wall_7_1
+[2021.11.14-18.41.31:957][738]LogStaticMesh: Building static mesh Wall_back...
+[2021.11.14-18.41.31:957][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_back.Wall_back
+[2021.11.14-18.41.31:960][738]LogStaticMesh: Building static mesh Wall_Corner_1...
+[2021.11.14-18.41.31:994][738]LogMeshUtilities: Finished distance field build in 0.2s - 30x9x45 distance field, 184 triangles, Range [-0.1, 0.5], Wall_3_1
+[2021.11.14-18.41.31:994][738]LogStaticMesh: Built static mesh [0.03s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_Corner_1.Wall_Corner_1
+[2021.11.14-18.41.31:996][738]LogStaticMesh: Building static mesh Wall_Corner_2...
+[2021.11.14-18.41.32:073][738]LogStaticMesh: Built static mesh [0.08s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_Corner_2.Wall_Corner_2
+[2021.11.14-18.41.32:076][738]LogStaticMesh: Building static mesh Wall_Corner_3...
+[2021.11.14-18.41.32:108][738]LogMeshUtilities: Finished distance field build in 0.1s - 29x8x41 distance field, 2 triangles, Range [-0.1, 1.0], Wall_back
+[2021.11.14-18.41.32:108][738]LogStaticMesh: Built static mesh [0.03s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_Corner_3.Wall_Corner_3
+[2021.11.14-18.41.32:110][738]LogStaticMesh: Building static mesh Wall_Corner_4...
+[2021.11.14-18.41.32:145][738]LogStaticMesh: Built static mesh [0.04s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_Corner_4.Wall_Corner_4
+[2021.11.14-18.41.32:148][738]LogStaticMesh: Building static mesh Wall_Corner_6...
+[2021.11.14-18.41.32:194][738]LogStaticMesh: Built static mesh [0.05s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_Corner_6.Wall_Corner_6
+[2021.11.14-18.41.32:197][738]LogStaticMesh: Building static mesh Wall_round_1_1...
+[2021.11.14-18.41.32:214][738]LogStaticMesh: Built static mesh [0.02s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_round_1_1.Wall_round_1_1
+[2021.11.14-18.41.32:217][738]LogStaticMesh: Building static mesh Wall_round_1_3...
+[2021.11.14-18.41.32:225][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_round_1_3.Wall_round_1_3
+[2021.11.14-18.41.32:229][738]LogStaticMesh: Building static mesh Wall_round_1_back...
+[2021.11.14-18.41.32:230][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_round_1_back.Wall_round_1_back
+[2021.11.14-18.41.32:232][738]LogStaticMesh: Building static mesh Wall_round_2_2...
+[2021.11.14-18.41.32:258][738]LogStaticMesh: Built static mesh [0.03s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_round_2_2.Wall_round_2_2
+[2021.11.14-18.41.32:261][738]LogStaticMesh: Building static mesh Wall_round_3_1...
+[2021.11.14-18.41.32:281][738]LogStaticMesh: Built static mesh [0.02s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_round_3_1.Wall_round_3_1
+[2021.11.14-18.41.32:284][738]LogStaticMesh: Building static mesh Wall_round_3_2...
+[2021.11.14-18.41.32:296][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_round_3_2.Wall_round_3_2
+[2021.11.14-18.41.32:300][738]LogStaticMesh: Building static mesh Wall_round_4_1...
+[2021.11.14-18.41.32:319][738]LogStaticMesh: Built static mesh [0.02s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_round_4_1.Wall_round_4_1
+[2021.11.14-18.41.32:323][738]LogStaticMesh: Building static mesh Wall_small...
+[2021.11.14-18.41.32:336][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_small.Wall_small
+[2021.11.14-18.41.32:339][738]LogStaticMesh: Building static mesh Wall_small_corner...
+[2021.11.14-18.41.32:364][738]LogStaticMesh: Built static mesh [0.02s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Wall_small_corner.Wall_small_corner
+[2021.11.14-18.41.32:367][738]LogStaticMesh: Building static mesh Weigher...
+[2021.11.14-18.41.32:416][738]LogStaticMesh: Built static mesh [0.05s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Weigher.Weigher
+[2021.11.14-18.41.32:421][738]LogStaticMesh: Building static mesh Window_1_1...
+[2021.11.14-18.41.32:453][738]LogStaticMesh: Built static mesh [0.03s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Window_1_1.Window_1_1
+[2021.11.14-18.41.32:456][738]LogStaticMesh: Building static mesh Window_1_glass...
+[2021.11.14-18.41.32:456][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Window_1_glass.Window_1_glass
+[2021.11.14-18.41.32:459][738]LogStaticMesh: Building static mesh Window_2_1...
+[2021.11.14-18.41.32:491][738]LogStaticMesh: Built static mesh [0.03s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Window_2_1.Window_2_1
+[2021.11.14-18.41.32:494][738]LogStaticMesh: Building static mesh Window_2_glass...
+[2021.11.14-18.41.32:495][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Window_2_glass.Window_2_glass
+[2021.11.14-18.41.32:498][738]LogStaticMesh: Building static mesh Window_3_1...
+[2021.11.14-18.41.32:518][738]LogStaticMesh: Built static mesh [0.02s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Window_3_1.Window_3_1
+[2021.11.14-18.41.32:520][738]LogStaticMesh: Building static mesh Window_3_glass...
+[2021.11.14-18.41.32:521][738]LogStaticMesh: Built static mesh [0.00s] /Game/3rdParty/AlchemistsHouse/Assets/Models/Window_3_glass.Window_3_glass
+[2021.11.14-18.41.32:686][738]LogActorComponent: RegisterComponentWithWorld: (/Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.11.14-18.41.32:709][738]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.AlchemistsHouse_1'
+[2021.11.14-18.41.32:713][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:714][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:714][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:714][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:715][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:715][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:715][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:716][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:717][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:717][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:717][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/Maps/Streaming/15_intro_map_SETTINGS': Can't find file.
+[2021.11.14-18.41.32:718][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/Maps/Streaming/15_intro_map_SETTINGS': Can't find file.
+[2021.11.14-18.41.32:718][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:718][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:719][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:719][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:720][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:721][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Materials/Fonts/M_DefaultTextMaterialOpaque': Can't find file.
+[2021.11.14-18.41.32:721][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Materials/Fonts/M_DefaultTextMaterialOpaque': Can't find file.
+[2021.11.14-18.41.32:721][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Materials/M_DemoWallPattern_Inst_Mirrored': Can't find file.
+[2021.11.14-18.41.32:722][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Materials/M_DemoWallPattern_Inst_Mirrored': Can't find file.
+[2021.11.14-18.41.32:722][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:722][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Audio/Cue/VR_WorldMoveLoop_02_Cue': Can't find file.
+[2021.11.14-18.41.32:723][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Audio/Cue/VR_WorldMoveLoop_02_Cue': Can't find file.
+[2021.11.14-18.41.32:723][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:723][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:724][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:724][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Effects/ParticleSystems/P_GPU_particles_attraction': Can't find file.
+[2021.11.14-18.41.32:725][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Effects/ParticleSystems/P_GPU_particles_attraction': Can't find file.
+[2021.11.14-18.41.32:725][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Materials/Fonts/M_DefaultTextMaterialOpaque': Can't find file.
+[2021.11.14-18.41.32:725][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Materials/M_DemoWallPattern_Inst_Mirrored': Can't find file.
+[2021.11.14-18.41.32:725][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/Maps/Streaming/15_intro_map_SETTINGS': Can't find file.
+[2021.11.14-18.41.32:726][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Effects/ParticleSystems/P_GPU_particles_attraction': Can't find file.
+[2021.11.14-18.41.32:726][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:727][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:727][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:727][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Audio/Cue/VR_WorldMoveLoop_02_Cue': Can't find file.
+[2021.11.14-18.41.32:728][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:728][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:728][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:728][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:729][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:729][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:729][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:730][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:730][738]LogMeshUtilities: Finished distance field build in 0.6s - 32x32x45 distance field, 224 triangles, Range [-0.1, 1.0], Wall_Corner_2
+[2021.11.14-18.41.32:730][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:730][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:731][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:731][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:732][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:732][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:733][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:733][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:733][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:734][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:734][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:734][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:734][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:735][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/Maps/Streaming/15_intro_map_SETTINGS': Can't find file.
+[2021.11.14-18.41.32:735][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:735][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:735][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:736][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:736][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:736][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Materials/Fonts/M_DefaultTextMaterialOpaque': Can't find file.
+[2021.11.14-18.41.32:736][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Materials/M_DemoWallPattern_Inst_Mirrored': Can't find file.
+[2021.11.14-18.41.32:737][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:737][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Audio/Cue/VR_WorldMoveLoop_02_Cue': Can't find file.
+[2021.11.14-18.41.32:737][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:737][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:738][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:738][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Effects/ParticleSystems/P_GPU_particles_attraction': Can't find file.
+[2021.11.14-18.41.32:738][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Materials/Fonts/M_DefaultTextMaterialOpaque': Can't find file.
+[2021.11.14-18.41.32:738][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Materials/M_DemoWallPattern_Inst_Mirrored': Can't find file.
+[2021.11.14-18.41.32:739][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/Maps/Streaming/15_intro_map_SETTINGS': Can't find file.
+[2021.11.14-18.41.32:739][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Effects/ParticleSystems/P_GPU_particles_attraction': Can't find file.
+[2021.11.14-18.41.32:739][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:739][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:739][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:740][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Audio/Cue/VR_WorldMoveLoop_02_Cue': Can't find file.
+[2021.11.14-18.41.32:740][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:740][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:741][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:741][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:741][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:741][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:741][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:742][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:742][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:742][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:742][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:742][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:743][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:743][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:743][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:744][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:744][738]LoadErrors: Failed to load /Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors.BP_Double_Doors_C Referenced by Default__ExampleGameLevel_15A_Map_C
+[2021.11.14-18.41.32:744][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:745][738]LoadErrors: Failed to load /Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors.BP_Double_Doors_C Referenced by K2Node_Literal_0
+[2021.11.14-18.41.32:745][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:745][738]LoadErrors: Failed to load /Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors.BP_Double_Doors_C Referenced by K2Node_CallFunction_1
+[2021.11.14-18.41.32:746][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_Double_Doors': Can't find file.
+[2021.11.14-18.41.32:747][738]LogBlueprint: Error: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: [Compiler] In use pin  <Unnamed>  no longer exists on node  Open Doors . Please refresh node or break links to remove pin.
+[2021.11.14-18.41.32:747][738]LogBlueprint: Error: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: [Compiler] In use pin  Target  no longer exists on node  Open Doors . Please refresh node or break links to remove pin.
+[2021.11.14-18.41.32:747][738]LogBlueprint: Error: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: [Compiler] Could not find a function named "Open doors" in 'ExampleGameLevel_15A_Map'.
+Make sure 'ExampleGameLevel_15A_Map' has been compiled for  Open Doors
+[2021.11.14-18.41.32:748][738]LogBlueprint: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2021.11.14-18.41.32:749][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:750][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:750][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:750][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:750][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:750][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:751][738]LogMeshUtilities: Discarded distance field for Window_3_glass as mesh was not closed!  Assign a two-sided material to fix.
+[2021.11.14-18.41.32:751][738]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x25 distance field, 8 triangles, Range [-0.1, 1.0], Window_3_glass
+[2021.11.14-18.41.32:751][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:751][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/DemoRoom/BP_DemoRoom': Can't find file.
+[2021.11.14-18.41.32:753][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Audio/Cue/VR_WorldMoveLoop_02_Cue': Can't find file.
+[2021.11.14-18.41.32:753][738]LoadErrors: Failed to load /Game/LSS_LoadingScreenSystem/DemoContent/Audio/Cue/VR_WorldMoveLoop_02_Cue.VR_WorldMoveLoop_02_Cue Referenced by VR_WorldMoveLoop_02_Cue6
+[2021.11.14-18.41.32:753][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Audio/Cue/VR_WorldMoveLoop_02_Cue': Can't find file.
+[2021.11.14-18.41.32:753][738]LoadErrors: Failed to load /Game/LSS_LoadingScreenSystem/DemoContent/Audio/Cue/VR_WorldMoveLoop_02_Cue.VR_WorldMoveLoop_02_Cue Referenced by VR_WorldMoveLoop_02_Cue8
+[2021.11.14-18.41.32:755][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Effects/ParticleSystems/P_GPU_particles_attraction': Can't find file.
+[2021.11.14-18.41.32:755][738]LoadErrors: Failed to load /Game/LSS_LoadingScreenSystem/DemoContent/Effects/ParticleSystems/P_GPU_particles_attraction.P_GPU_particles_attraction Referenced by P_GPU_particles_attraction13
+[2021.11.14-18.41.32:756][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Effects/ParticleSystems/P_GPU_particles_attraction': Can't find file.
+[2021.11.14-18.41.32:756][738]LoadErrors: Failed to load /Game/LSS_LoadingScreenSystem/DemoContent/Effects/ParticleSystems/P_GPU_particles_attraction.P_GPU_particles_attraction Referenced by P_GPU_particles_attraction7
+[2021.11.14-18.41.32:772][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Materials/Fonts/M_DefaultTextMaterialOpaque': Can't find file.
+[2021.11.14-18.41.32:772][738]LoadErrors: Failed to load /Game/LSS_LoadingScreenSystem/DemoContent/Materials/Fonts/M_DefaultTextMaterialOpaque.M_DefaultTextMaterialOpaque Referenced by TextRenderActor3
+[2021.11.14-18.41.32:772][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15A_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Materials/Fonts/M_DefaultTextMaterialOpaque': Can't find file.
+[2021.11.14-18.41.32:772][738]LoadErrors: Failed to load /Game/LSS_LoadingScreenSystem/DemoContent/Materials/Fonts/M_DefaultTextMaterialOpaque.M_DefaultTextMaterialOpaque Referenced by TextRenderActor4
+[2021.11.14-18.41.32:782][738]LogMeshUtilities: Finished distance field build in 0.0s - 10x8x28 distance field, 128 triangles, Range [-0.0, 0.5], Window_3_1
+[2021.11.14-18.41.32:782][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15B_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:782][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15B_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:783][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15B_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:783][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15B_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:783][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15B_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:784][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15B_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:784][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15B_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:785][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15B_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Materials/M_DemoWallPattern_Inst_Mirrored': Can't find file.
+[2021.11.14-18.41.32:786][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15B_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:786][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15B_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:787][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15B_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Materials/M_DemoWallPattern_Inst_Mirrored': Can't find file.
+[2021.11.14-18.41.32:787][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15B_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Meshes/SM_Toy_Cow': Can't find file.
+[2021.11.14-18.41.32:788][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15B_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Meshes/SM_Toy_Cow': Can't find file.
+[2021.11.14-18.41.32:789][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15B_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Meshes/SM_Toy_Cow': Can't find file.
+[2021.11.14-18.41.32:789][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15B_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:790][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:790][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:790][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:791][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:791][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:791][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:791][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:792][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Materials/M_DemoWallPattern_Inst_Mirrored': Can't find file.
+[2021.11.14-18.41.32:792][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:792][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:792][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Materials/M_DemoWallPattern_Inst_Mirrored': Can't find file.
+[2021.11.14-18.41.32:792][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Meshes/SM_Toy_Cow': Can't find file.
+[2021.11.14-18.41.32:793][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Meshes/SM_Toy_Cow': Can't find file.
+[2021.11.14-18.41.32:793][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:794][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:794][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Blueprints/BP_FloatingText': Can't find file.
+[2021.11.14-18.41.32:794][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:794][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:795][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:795][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:795][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:795][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:795][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:796][738]LogLinker: Warning: Failed to load '/Game/LSS_LoadingScreenSystem/Blueprints/BP_LSS_Transition': Can't find file.
+[2021.11.14-18.41.32:807][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15B_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Materials/M_DemoWallPattern_Inst_Mirrored': Can't find file.
+[2021.11.14-18.41.32:807][738]LoadErrors: Failed to load /Game/LSS_LoadingScreenSystem/DemoContent/Materials/M_DemoWallPattern_Inst_Mirrored.M_DemoWallPattern_Inst_Mirrored Referenced by Cylinder_2
+[2021.11.14-18.41.32:808][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15B_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Meshes/SM_Toy_Cow': Can't find file.
+[2021.11.14-18.41.32:808][738]LoadErrors: Failed to load /Game/LSS_LoadingScreenSystem/DemoContent/Meshes/SM_Toy_Cow.SM_Toy_Cow Referenced by SM_Toy_Cow3
+[2021.11.14-18.41.32:808][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15B_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Meshes/SM_Toy_Cow': Can't find file.
+[2021.11.14-18.41.32:808][738]LoadErrors: Failed to load /Game/LSS_LoadingScreenSystem/DemoContent/Meshes/SM_Toy_Cow.SM_Toy_Cow Referenced by SM_Toy_Cow6
+[2021.11.14-18.41.32:809][738]LogLinker: Warning: [AssetLog] C:\Users\jdhav\OneDrive\MyGames\GamesIMade\Palette\Palette_Project\Content\LSS_LoadingScreenSystem\Maps\Streaming\ExampleGameLevel_15B_Map.umap: Failed to load '/Game/LSS_LoadingScreenSystem/DemoContent/Meshes/SM_Toy_Cow': Can't find file.
+[2021.11.14-18.41.32:809][738]LoadErrors: Failed to load /Game/LSS_LoadingScreenSystem/DemoContent/Meshes/SM_Toy_Cow.SM_Toy_Cow Referenced by SM_Toy_Cow_5
+[2021.11.14-18.41.32:878][738]LogMeshUtilities: Discarded distance field for Window_2_glass as mesh was not closed!  Assign a two-sided material to fix.
+[2021.11.14-18.41.32:878][738]LogMeshUtilities: Finished distance field build in 0.0s - 11x8x24 distance field, 10 triangles, Range [-0.1, 1.0], Window_2_glass
+[2021.11.14-18.41.32:878][738]LogMeshUtilities: Finished distance field build in 0.0s - 14x8x26 distance field, 180 triangles, Range [-0.0, 0.5], Window_2_1
+[2021.11.14-18.41.32:878][738]LogMeshUtilities: Discarded distance field for Window_1_glass as mesh was not closed!  Assign a two-sided material to fix.
+[2021.11.14-18.41.32:878][738]LogMeshUtilities: Finished distance field build in 0.0s - 11x8x14 distance field, 10 triangles, Range [-0.2, 1.0], Window_1_glass
+[2021.11.14-18.41.32:919][738]LogMeshUtilities: Finished distance field build in 0.0s - 14x8x16 distance field, 148 triangles, Range [-0.0, 0.7], Window_1_1
+[2021.11.14-18.41.32:919][738]LogMeshUtilities: Finished distance field build in 0.0s - 11x8x10 distance field, 872 triangles, Range [-0.0, 1.0], Weigher
+[2021.11.14-18.41.32:919][738]LogStaticMesh: Building static mesh SM_grass_01...
+[2021.11.14-18.41.32:925][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/Stylized_Forest/Meshes/plants/SM_grass_01.SM_grass_01
+[2021.11.14-18.41.32:930][738]LogStaticMesh: Building static mesh SM_flower_01...
+[2021.11.14-18.41.32:939][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/Stylized_Forest/Meshes/plants/SM_flower_01.SM_flower_01
+[2021.11.14-18.41.32:945][738]LogStaticMesh: Building static mesh SM_shrub_flower_01...
+[2021.11.14-18.41.32:952][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/Stylized_Forest/Meshes/plants/SM_shrub_flower_01.SM_shrub_flower_01
+[2021.11.14-18.41.32:956][738]LogStaticMesh: Building static mesh SM_grass_02...
+[2021.11.14-18.41.32:964][738]LogStaticMesh: Built static mesh [0.01s] /Game/3rdParty/Stylized_Forest/Meshes/plants/SM_grass_02.SM_grass_02
+[2021.11.14-18.41.32:985][738]LogStaticMesh: Building static mesh SM_stone_06...
+[2021.11.14-18.41.33:060][738]LogStaticMesh: Built static mesh [0.08s] /Game/3rdParty/Stylized_Forest/Meshes/stones/SM_stone_06.SM_stone_06
+[2021.11.14-18.41.33:073][738]LogStaticMesh: Building static mesh SM_branch_02...
+[2021.11.14-18.41.33:132][738]LogStaticMesh: Built static mesh [0.06s] /Game/3rdParty/Stylized_Forest/Meshes/trees/SM_branch_02.SM_branch_02
+[2021.11.14-18.41.33:141][738]LogMeshUtilities: Finished distance field build in 0.2s - 32x32x13 distance field, 56 triangles, Range [-0.1, 1.0], Wall_small_corner
+[2021.11.14-18.41.33:141][738]LogStaticMesh: Building static mesh SM_stump_03...
+[2021.11.14-18.41.33:187][738]LogStaticMesh: Built static mesh [0.05s] /Game/3rdParty/Stylized_Forest/Meshes/trees/SM_stump_03.SM_stump_03
+[2021.11.14-18.41.33:225][738]LogStaticMesh: Building static mesh SM_tree_06...
+[2021.11.14-18.41.33:801][738]LogStaticMesh: Built static mesh [0.58s] /Game/3rdParty/Stylized_Forest/Meshes/trees/SM_tree_06.SM_tree_06
+[2021.11.14-18.41.33:820][738]LogStaticMesh: Building static mesh SM_tree_07...
+[2021.11.14-18.41.33:898][738]LogStaticMesh: Built static mesh [0.08s] /Game/3rdParty/Stylized_Forest/Meshes/trees/SM_tree_07.SM_tree_07
+[2021.11.14-18.41.33:905][738]LogStaticMesh: Building static mesh SM_tree_shrub...
+[2021.11.14-18.41.34:038][738]LogStaticMesh: Built static mesh [0.13s] /Game/3rdParty/Stylized_Forest/Meshes/trees/SM_tree_shrub.SM_tree_shrub
+[2021.11.14-18.41.34:136][738]LogEditorViewport: Clicking Background
+[2021.11.14-18.41.34:137][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Sprite': BP_FloatingText_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_FloatingText2
+[2021.11.14-18.41.34:137][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Sprite': BP_FloatingText_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_FloatingText_212
+[2021.11.14-18.41.34:137][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Billboard': BP_LSS_Transition_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_LSS_Transition15A
+[2021.11.14-18.41.34:137][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_LSS_Transition_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_LSS_Transition15A
+[2021.11.14-18.41.34:137][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NODE_AddPointLightComponent-0_3': BP_DemoRoom_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_DemoRoom2
+[2021.11.14-18.41.34:137][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Scene1': BP_DemoRoom_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_DemoRoom2
+[2021.11.14-18.41.34:137][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Base': BP_Double_Doors_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_Double_Doors_1132
+[2021.11.14-18.41.34:137][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NODE_AddStaticMeshComponent-0_24': BP_DemoRoom_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_DemoRoom2
+[2021.11.14-18.41.34:137][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NODE_AddStaticMeshComponent-1_29': BP_DemoRoom_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_DemoRoom2
+[2021.11.14-18.41.34:137][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NODE_AddStaticMeshComponent-2_30': BP_DemoRoom_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_DemoRoom2
+[2021.11.14-18.41.34:137][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NODE_AddStaticMeshComponent-3_31': BP_DemoRoom_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_DemoRoom2
+[2021.11.14-18.41.34:137][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NODE_AddStaticMeshComponent-4_25': BP_DemoRoom_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_DemoRoom2
+[2021.11.14-18.41.34:137][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NODE_AddStaticMeshComponent-5_26': BP_DemoRoom_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_DemoRoom2
+[2021.11.14-18.41.34:137][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NODE_AddStaticMeshComponent-6_27': BP_DemoRoom_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_DemoRoom2
+[2021.11.14-18.41.34:137][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NODE_AddStaticMeshComponent-7_28': BP_DemoRoom_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_DemoRoom2
+[2021.11.14-18.41.34:137][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Left door': BP_Double_Doors_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_Double_Doors_1132
+[2021.11.14-18.41.34:137][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Lock': BP_Double_Doors_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_Double_Doors_1132
+[2021.11.14-18.41.34:137][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Right door': BP_Double_Doors_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_Double_Doors_1132
+[2021.11.14-18.41.34:137][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NODE_AddTextRenderComponent-0_6': BP_DemoRoom_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_DemoRoom2
+[2021.11.14-18.41.34:137][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NODE_AddTextRenderComponent-1_7': BP_DemoRoom_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_DemoRoom2
+[2021.11.14-18.41.34:137][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NewTextRenderComponent': BP_FloatingText_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_FloatingText2
+[2021.11.14-18.41.34:138][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NewTextRenderComponent': BP_FloatingText_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_FloatingText_212
+[2021.11.14-18.41.34:138][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Open/close': BP_Double_Doors_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_Double_Doors_1132
+[2021.11.14-18.41.34:138][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Movement': BP_FloatingText_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_FloatingText2
+[2021.11.14-18.41.34:138][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Movement': BP_FloatingText_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map:PersistentLevel.BP_FloatingText_212
+[2021.11.14-18.41.34:138][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Sprite': BP_FloatingText_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15B_Map.ExampleGameLevel_15B_Map:PersistentLevel.BP_FloatingText
+[2021.11.14-18.41.34:138][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Billboard': BP_LSS_Transition_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15B_Map.ExampleGameLevel_15B_Map:PersistentLevel.BP_LSS_Transition2_225
+[2021.11.14-18.41.34:138][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Billboard': BP_LSS_Transition_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15B_Map.ExampleGameLevel_15B_Map:PersistentLevel.BP_LSS_Transition3
+[2021.11.14-18.41.34:138][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Billboard': BP_LSS_Transition_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15B_Map.ExampleGameLevel_15B_Map:PersistentLevel.BP_LSS_Transition4
+[2021.11.14-18.41.34:138][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Billboard': BP_LSS_Transition_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15B_Map.ExampleGameLevel_15B_Map:PersistentLevel.BP_LSS_Transition5
+[2021.11.14-18.41.34:138][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_LSS_Transition_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15B_Map.ExampleGameLevel_15B_Map:PersistentLevel.BP_LSS_Transition2_225
+[2021.11.14-18.41.34:138][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_LSS_Transition_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15B_Map.ExampleGameLevel_15B_Map:PersistentLevel.BP_LSS_Transition3
+[2021.11.14-18.41.34:138][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_LSS_Transition_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15B_Map.ExampleGameLevel_15B_Map:PersistentLevel.BP_LSS_Transition4
+[2021.11.14-18.41.34:138][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_LSS_Transition_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15B_Map.ExampleGameLevel_15B_Map:PersistentLevel.BP_LSS_Transition5
+[2021.11.14-18.41.34:138][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NewTextRenderComponent': BP_FloatingText_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15B_Map.ExampleGameLevel_15B_Map:PersistentLevel.BP_FloatingText
+[2021.11.14-18.41.34:138][738]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Movement': BP_FloatingText_C /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15B_Map.ExampleGameLevel_15B_Map:PersistentLevel.BP_FloatingText
+[2021.11.14-18.41.35:249][797]LogMeshUtilities: Finished distance field build in 2.1s - 64x64x39 distance field, 1668 triangles, Range [-0.0, 1.0], SM_branch_02
+[2021.11.14-18.41.38:726][  4]LogMeshUtilities: Finished distance field build in 3.5s - 64x64x57 distance field, 1453 triangles, Range [-0.1, 1.0], SM_tree_shrub
+[2021.11.14-18.41.42:609][191]LogMeshUtilities: Finished distance field build in 3.8s - 64x64x64 distance field, 1572 triangles, Range [-0.1, 1.0], SM_tree_07
+[2021.11.14-18.41.46:615][203]LogMeshUtilities: Finished distance field build in 4.0s - 64x64x64 distance field, 4137 triangles, Range [-0.0, 1.0], SM_tree_06
+[2021.11.14-18.41.51:815][218]LogMeshUtilities: Finished distance field build in 5.1s - 64x64x64 distance field, 908 triangles, Range [-0.1, 1.0], SM_stump_03
+[2021.11.14-18.41.57:188][234]LogMeshUtilities: Finished distance field build in 5.4s - 64x64x64 distance field, 1604 triangles, Range [-0.4, 1.0], SM_stone_06
+[2021.11.14-18.41.57:188][234]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x11 distance field, 40 triangles, Range [-0.2, 1.0], SM_grass_02
+[2021.11.14-18.41.57:188][234]LogMeshUtilities: Discarded distance field for SM_shrub_flower_01 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.11.14-18.41.57:188][234]LogMeshUtilities: Finished distance field build in 0.0s - 9x8x9 distance field, 84 triangles, Range [-0.4, 0.9], SM_shrub_flower_01
+[2021.11.14-18.41.57:188][234]LogMeshUtilities: Discarded distance field for SM_flower_01 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.11.14-18.41.57:188][234]LogMeshUtilities: Finished distance field build in 0.0s - 13x13x8 distance field, 84 triangles, Range [-0.2, 0.9], SM_flower_01
+[2021.11.14-18.41.57:188][234]LogMeshUtilities: Finished distance field build in 0.0s - 12x9x9 distance field, 41 triangles, Range [-0.3, 1.0], SM_grass_01
+[2021.11.14-18.41.57:521][235]LogMeshUtilities: Finished distance field build in 0.1s - 30x8x13 distance field, 30 triangles, Range [-0.1, 0.4], Wall_small
+[2021.11.14-18.41.58:188][237]LogMeshUtilities: Finished distance field build in 0.8s - 52x17x53 distance field, 204 triangles, Range [-0.1, 0.6], Wall_round_4_1
+[2021.11.14-18.41.58:857][239]LogMeshUtilities: Finished distance field build in 0.7s - 52x17x52 distance field, 156 triangles, Range [-0.1, 0.6], Wall_round_3_2
+[2021.11.14-18.41.59:527][241]LogMeshUtilities: Finished distance field build in 0.8s - 52x17x53 distance field, 208 triangles, Range [-0.1, 0.6], Wall_round_3_1
+[2021.11.14-18.42.00:532][244]LogMeshUtilities: Finished distance field build in 0.8s - 52x17x53 distance field, 331 triangles, Range [-0.1, 0.6], Wall_round_2_2
+[2021.11.14-18.42.00:867][245]LogMeshUtilities: Finished distance field build in 0.4s - 50x10x51 distance field, 16 triangles, Range [-0.1, 1.0], Wall_round_1_back
+[2021.11.14-18.42.01:534][247]LogMeshUtilities: Finished distance field build in 0.7s - 52x17x52 distance field, 104 triangles, Range [-0.1, 0.6], Wall_round_1_3
+[2021.11.14-18.42.02:207][249]LogMeshUtilities: Finished distance field build in 0.8s - 52x17x53 distance field, 156 triangles, Range [-0.1, 0.6], Wall_round_1_1
+[2021.11.14-18.42.03:213][252]LogMeshUtilities: Finished distance field build in 0.7s - 30x35x45 distance field, 94 triangles, Range [-0.1, 0.8], Wall_Corner_6
+[2021.11.14-18.42.03:560][253]LogMeshUtilities: Finished distance field build in 0.4s - 17x32x45 distance field, 68 triangles, Range [-0.1, 0.7], Wall_Corner_4
+[2021.11.14-18.42.03:912][254]LogMeshUtilities: Finished distance field build in 0.4s - 32x17x45 distance field, 68 triangles, Range [-0.1, 0.7], Wall_Corner_3
+[2021.11.14-18.42.04:939][257]LogMeshUtilities: Finished distance field build in 0.9s - 32x32x45 distance field, 68 triangles, Range [-0.1, 1.0], Wall_Corner_1
+[2021.11.14-18.42.04:939][257]LogMeshUtilities: Finished distance field build in 0.1s - 16x9x44 distance field, 102 triangles, Range [-0.1, 0.4], Wall_7_1
+[2021.11.14-18.42.04:939][257]LogMeshUtilities: Finished distance field build in 0.1s - 16x9x44 distance field, 42 triangles, Range [-0.1, 0.4], Wall_6_1
+[2021.11.14-18.42.05:273][258]LogMeshUtilities: Finished distance field build in 0.2s - 30x9x45 distance field, 104 triangles, Range [-0.1, 0.5], Wall_5_1
+[2021.11.14-18.42.05:273][258]LogMeshUtilities: Finished distance field build in 0.2s - 30x9x45 distance field, 202 triangles, Range [-0.1, 0.5], Wall_4_1
+[2021.11.14-18.42.05:607][259]LogMeshUtilities: Finished distance field build in 0.2s - 30x9x45 distance field, 170 triangles, Range [-0.1, 0.5], Wall_2_1
+[2021.11.14-18.42.05:945][260]LogMeshUtilities: Finished distance field build in 0.2s - 30x9x45 distance field, 98 triangles, Range [-0.1, 0.5], Wall_1_2
+[2021.11.14-18.42.05:945][260]LogMeshUtilities: Finished distance field build in 0.2s - 30x9x45 distance field, 118 triangles, Range [-0.1, 0.5], Wall_1_1
+[2021.11.14-18.42.05:945][260]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 334 triangles, Range [-0.0, 0.8], Vase_4
+[2021.11.14-18.42.05:945][260]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 286 triangles, Range [-0.3, 1.0], Vase_3
+[2021.11.14-18.42.05:945][260]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 422 triangles, Range [-0.2, 0.6], Vase_2
+[2021.11.14-18.42.05:945][260]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x9 distance field, 358 triangles, Range [-0.2, 0.5], Vase_1
+[2021.11.14-18.42.06:280][261]LogMeshUtilities: Finished distance field build in 0.1s - 18x18x13 distance field, 624 triangles, Range [-0.0, 1.0], Table_round
+[2021.11.14-18.42.06:280][261]LogMeshUtilities: Discarded distance field for Tablecloth as mesh was not closed!  Assign a two-sided material to fix.
+[2021.11.14-18.42.06:281][261]LogMeshUtilities: Finished distance field build in 0.0s - 19x13x9 distance field, 22 triangles, Range [-0.2, 0.8], Tablecloth
+[2021.11.14-18.42.06:281][261]LogMeshUtilities: Finished distance field build in 0.2s - 18x33x13 distance field, 340 triangles, Range [-0.0, 0.6], Table
+[2021.11.14-18.42.06:281][261]LogMeshUtilities: Finished distance field build in 0.0s - 14x10x19 distance field, 316 triangles, Range [-0.0, 0.7], Stand
+[2021.11.14-18.42.07:620][265]LogMeshUtilities: Finished distance field build in 1.3s - 41x43x46 distance field, 360 triangles, Range [-0.1, 1.0], Stairs_round
+[2021.11.14-18.42.07:953][266]LogMeshUtilities: Finished distance field build in 0.2s - 24x24x23 distance field, 328 triangles, Range [-0.1, 1.0], Stairs
+[2021.11.14-18.42.07:953][266]LogMeshUtilities: Finished distance field build in 0.0s - 20x8x8 distance field, 214 triangles, Range [-0.0, 0.5], Shelf
+[2021.11.14-18.42.07:953][266]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 456 triangles, Range [-0.1, 0.4], Scroll_3
+[2021.11.14-18.42.07:953][266]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 144 triangles, Range [-0.1, 0.3], Scroll_2
+[2021.11.14-18.42.07:953][266]LogMeshUtilities: Discarded distance field for Scroll_1 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.11.14-18.42.07:953][266]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 447 triangles, Range [-0.3, 1.0], Scroll_1
+[2021.11.14-18.42.07:953][266]LogMeshUtilities: Finished distance field build in 0.0s - 16x16x9 distance field, 244 triangles, Range [-0.0, 1.0], Railing_corner
+[2021.11.14-18.42.07:953][266]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x9 distance field, 70 triangles, Range [-0.1, 0.6], Railing_2
+[2021.11.14-18.42.07:953][266]LogMeshUtilities: Finished distance field build in 0.0s - 15x8x9 distance field, 120 triangles, Range [-0.0, 0.5], Railing
+[2021.11.14-18.42.07:953][266]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 390 triangles, Range [-0.0, 0.9], Rack
+[2021.11.14-18.42.07:953][266]LogMeshUtilities: Finished distance field build in 0.0s - 12x12x9 distance field, 492 triangles, Range [-0.3, 0.9], Pumpkin
+[2021.11.14-18.42.07:953][266]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 210 triangles, Range [-0.2, 0.6], Potion_5
+[2021.11.14-18.42.07:954][266]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 382 triangles, Range [-0.1, 0.6], Potion_4
+[2021.11.14-18.42.07:954][266]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 436 triangles, Range [-0.2, 0.5], Potion_3
+[2021.11.14-18.42.07:954][266]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 350 triangles, Range [-0.3, 0.8], Potion_2
+[2021.11.14-18.42.07:954][266]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 308 triangles, Range [-0.2, 0.8], Potion_1
+[2021.11.14-18.42.07:954][266]LogMeshUtilities: Finished distance field build in 0.0s - 9x9x8 distance field, 128 triangles, Range [-0.0, 0.7], Plate
+[2021.11.14-18.42.07:968][267]LogMeshUtilities: Finished distance field build in 0.0s - 10x10x8 distance field, 382 triangles, Range [-0.2, 1.0], Plant
+[2021.11.14-18.42.08:286][267]LogMeshUtilities: Finished distance field build in 0.1s - 10x14x54 distance field, 10 triangles, Range [-0.1, 0.5], Pillar_4_1
+[2021.11.14-18.42.08:286][267]LogMeshUtilities: Finished distance field build in 0.1s - 11x11x45 distance field, 58 triangles, Range [-0.1, 0.5], Pillar_3_1
+[2021.11.14-18.42.08:286][267]LogMeshUtilities: Finished distance field build in 0.1s - 12x12x46 distance field, 202 triangles, Range [-0.1, 0.4], Pillar_2_1
+[2021.11.14-18.42.08:625][268]LogMeshUtilities: Finished distance field build in 0.1s - 8x10x45 distance field, 10 triangles, Range [-0.1, 0.5], Pillar_1_1
+[2021.11.14-18.42.08:625][268]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 416 triangles, Range [-0.1, 0.7], Pie
+[2021.11.14-18.42.08:625][268]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 120 triangles, Range [-0.2, 0.4], Mortar_1
+[2021.11.14-18.42.08:625][268]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 190 triangles, Range [-0.1, 0.9], Mortar
+[2021.11.14-18.42.08:625][268]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x11 distance field, 870 triangles, Range [-0.1, 0.7], Lighter_2_3
+[2021.11.14-18.42.08:625][268]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 80 triangles, Range [-0.2, 1.0], Lighter_2_2
+[2021.11.14-18.42.08:625][268]LogMeshUtilities: Discarded distance field for Lighter_2_1 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.11.14-18.42.08:625][268]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 144 triangles, Range [-0.4, 0.8], Lighter_2_1
+[2021.11.14-18.42.08:625][268]LogMeshUtilities: Discarded distance field for Lighter_2 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.11.14-18.42.08:625][268]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 204 triangles, Range [-0.3, 0.6], Lighter_2
+[2021.11.14-18.42.08:625][268]LogMeshUtilities: Discarded distance field for Lighter as mesh was not closed!  Assign a two-sided material to fix.
+[2021.11.14-18.42.08:625][268]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x12 distance field, 382 triangles, Range [-0.2, 0.8], Lighter
+[2021.11.14-18.42.08:625][268]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 237 triangles, Range [-0.0, 1.0], Ink_bottle
+[2021.11.14-18.42.08:625][268]LogMeshUtilities: Finished distance field build in 0.0s - 10x8x8 distance field, 236 triangles, Range [-0.3, 0.8], Ham
+[2021.11.14-18.42.08:625][268]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 598 triangles, Range [-0.2, 0.8], Gas-jet
+[2021.11.14-18.42.08:625][268]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 2296 triangles, Range [-0.1, 0.7], Garlic
+[2021.11.14-18.42.08:625][268]LogMeshUtilities: Finished distance field build in 0.1s - 19x30x8 distance field, 3 triangles, Range [-0.1, 1.0], Floor_8
+[2021.11.14-18.42.08:625][268]LogMeshUtilities: Discarded distance field for Floor_7 as mesh was not closed!  Assign a two-sided material to fix.
+[2021.11.14-18.42.08:625][268]LogMeshUtilities: Finished distance field build in 0.0s - 12x16x8 distance field, 1 triangles, Range [-0.2, 1.0], Floor_7
+[2021.11.14-18.42.08:957][269]LogMeshUtilities: Finished distance field build in 0.1s - 30x30x8 distance field, 4 triangles, Range [-0.1, 1.0], Floor_6
+[2021.11.14-18.42.08:957][269]LogMeshUtilities: Finished distance field build in 0.1s - 15x30x8 distance field, 2 triangles, Range [-0.1, 1.0], Floor_5
+[2021.11.14-18.42.08:957][269]LogMeshUtilities: Finished distance field build in 0.1s - 30x15x8 distance field, 2 triangles, Range [-0.1, 1.0], Floor_3
+[2021.11.14-18.42.08:957][269]LogMeshUtilities: Finished distance field build in 0.1s - 30x15x8 distance field, 2 triangles, Range [-0.1, 1.0], Floor_2
+[2021.11.14-18.42.09:292][270]LogMeshUtilities: Finished distance field build in 0.1s - 30x30x8 distance field, 2 triangles, Range [-0.1, 1.0], Floor_1
+[2021.11.14-18.42.09:292][270]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 38 triangles, Range [-0.3, 0.7], Flask_cover
+[2021.11.14-18.42.09:292][270]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 376 triangles, Range [-0.2, 0.9], Flask_2
+[2021.11.14-18.42.09:292][270]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 352 triangles, Range [-0.2, 0.6], Flask_1
+[2021.11.14-18.42.09:292][270]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 2 triangles, Range [1.0, 1.0], Flame_plane
+[2021.11.14-18.42.09:292][270]LogMeshUtilities: Discarded distance field for Flag as mesh was not closed!  Assign a two-sided material to fix.
+[2021.11.14-18.42.09:293][270]LogMeshUtilities: Finished distance field build in 0.0s - 20x8x16 distance field, 501 triangles, Range [-0.1, 0.9], Flag
+[2021.11.14-18.42.09:293][270]LogMeshUtilities: Finished distance field build in 0.1s - 19x12x32 distance field, 332 triangles, Range [-0.1, 0.5], Fireplace
+[2021.11.14-18.42.09:625][271]LogMeshUtilities: Finished distance field build in 0.1s - 25x9x38 distance field, 84 triangles, Range [-0.0, 0.6], Door_aperture_1
+[2021.11.14-18.42.09:625][271]LogMeshUtilities: Finished distance field build in 0.1s - 11x8x34 distance field, 244 triangles, Range [-0.0, 0.6], Door_1
+[2021.11.14-18.42.09:625][271]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 364 triangles, Range [-0.0, 0.8], Cup
+[2021.11.14-18.42.09:625][271]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 674 triangles, Range [-0.3, 0.8], Chicken
+[2021.11.14-18.42.09:625][271]LogMeshUtilities: Finished distance field build in 0.0s - 18x11x8 distance field, 525 triangles, Range [-0.0, 0.5], Chest_cover
+[2021.11.14-18.42.09:625][271]LogMeshUtilities: Finished distance field build in 0.0s - 17x11x8 distance field, 708 triangles, Range [-0.0, 0.4], Chest
+[2021.11.14-18.42.09:625][271]LogMeshUtilities: Finished distance field build in 0.1s - 29x29x8 distance field, 4 triangles, Range [0.0, 1.0], Ceiling_2_2
+[2021.11.14-18.42.09:626][271]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 78 triangles, Range [-0.1, 0.5], Carrot
+[2021.11.14-18.42.09:963][272]LogMeshUtilities: Finished distance field build in 0.3s - 24x64x12 distance field, 58 triangles, Range [-0.0, 1.0], Carpet_long
+[2021.11.14-18.42.10:296][273]LogMeshUtilities: Finished distance field build in 0.1s - 23x23x8 distance field, 160 triangles, Range [0.0, 1.0], Carpet_2_1
+[2021.11.14-18.42.10:296][273]LogMeshUtilities: Finished distance field build in 0.1s - 25x34x8 distance field, 164 triangles, Range [0.0, 1.0], Carpet_1_1
+[2021.11.14-18.42.10:296][273]LogMeshUtilities: Finished distance field build in 0.1s - 25x34x8 distance field, 104 triangles, Range [-0.1, 1.0], Carpet
+[2021.11.14-18.42.10:296][273]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 64 triangles, Range [-0.1, 0.7], Candle_wax
+[2021.11.14-18.42.10:296][273]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 166 triangles, Range [-0.2, 0.4], Candle_4
+[2021.11.14-18.42.10:296][273]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 146 triangles, Range [-0.3, 0.8], Candle_3
+[2021.11.14-18.42.10:296][273]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 74 triangles, Range [-0.1, 0.5], Candle_2
+[2021.11.14-18.42.10:296][273]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 74 triangles, Range [-0.1, 0.4], Candle_1
+[2021.11.14-18.42.10:296][273]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 338 triangles, Range [-0.0, 0.8], Candlestick
+[2021.11.14-18.42.10:300][273]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 82 triangles, Range [-0.3, 1.0], Broccoli
+[2021.11.14-18.42.10:635][274]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 52 triangles, Range [-0.0, 0.5], Bread_part_2
+[2021.11.14-18.42.10:635][274]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 150 triangles, Range [-0.4, 0.9], Bread_part_1
+[2021.11.14-18.42.10:635][274]LogMeshUtilities: Finished distance field build in 0.0s - 13x9x8 distance field, 224 triangles, Range [-0.1, 0.5], Book_opened
+[2021.11.14-18.42.10:635][274]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 300 triangles, Range [-0.2, 0.5], Book_closed
+[2021.11.14-18.42.10:635][274]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 122 triangles, Range [-0.1, 0.3], Book_7
+[2021.11.14-18.42.10:635][274]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 122 triangles, Range [-0.1, 0.3], Book_6
+[2021.11.14-18.42.10:635][274]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 122 triangles, Range [-0.1, 0.3], Book_5
+[2021.11.14-18.42.10:636][274]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 122 triangles, Range [-0.1, 0.3], Book_4
+[2021.11.14-18.42.10:636][274]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 122 triangles, Range [-0.1, 0.4], Book_3
+[2021.11.14-18.42.10:636][274]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 122 triangles, Range [-0.1, 0.4], Book_2
+[2021.11.14-18.42.10:636][274]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 72 triangles, Range [-0.1, 0.3], Book_1
+[2021.11.14-18.42.10:636][274]LogMeshUtilities: Finished distance field build in 0.2s - 24x12x38 distance field, 562 triangles, Range [-0.1, 0.5], Bookcase
+[2021.11.14-18.42.10:636][274]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 76 triangles, Range [-0.0, 0.3], Board_small
+[2021.11.14-18.42.10:647][274]LogMeshUtilities: Finished distance field build in 0.0s - 8x15x8 distance field, 68 triangles, Range [-0.0, 0.4], Board_large
+[2021.11.14-18.42.10:969][275]LogMeshUtilities: Finished distance field build in 0.1s - 24x8x25 distance field, 760 triangles, Range [-0.1, 0.7], Blinds
+[2021.11.14-18.42.11:307][276]LogMeshUtilities: Finished distance field build in 0.5s - 31x35x21 distance field, 658 triangles, Range [-0.1, 0.8], Bed
+[2021.11.14-18.42.11:981][278]LogMeshUtilities: Finished distance field build in 0.5s - 43x41x19 distance field, 228 triangles, Range [-0.0, 1.0], Balcony
+[2021.11.14-18.42.11:981][278]LogMeshUtilities: Finished distance field build in 0.0s - 12x12x16 distance field, 580 triangles, Range [-0.1, 0.9], Armchair
+[2021.11.14-18.42.29:419][330]LogEditorViewport: Clicking Background
+[2021.11.14-18.42.39:854][955]LogObjectTools: Deleting 3 worlds: /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1, /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map.ExampleGameLevel_15A_Map, /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15B_Map.ExampleGameLevel_15B_Map
+[2021.11.14-18.42.39:854][955]LogObjectTools: Currently 1 active worlds: /Temp/Untitled_0.Untitled
+[2021.11.14-18.42.39:862][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.11.14-18.42.45:918][955]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.14-18.42.45:938][955]LogUObjectGlobals: Force Deleting 424 Package(s):
+	Asset Name: /Game/AlchemistsHouse/Assets/Fire/Fire.Fire
+	Asset Name: /Game/AlchemistsHouse/Assets/Materials/Ambry.Ambry
+	Asset Name: /Game/AlchemistsHouse/Assets/Materials/Ambry_texture_Mat.Ambry_texture_Mat
+	Asset Name: /Game/AlchemistsHouse/Assets/Materials/Candles_candlesticks.Candles_candlesticks
+	Asset Name: /Game/AlchemistsHouse/Assets/Materials/Candles_candlesticks_texture_Mat.Candles_candlesticks_texture_Mat
+	Asset Name: /Game/AlchemistsHouse/Assets/Materials/Chest.Chest
+	Asset Name: /Game/AlchemistsHouse/Assets/Materials/Chest_texture_Mat.Chest_texture_Mat
+	Asset Name: /Game/AlchemistsHouse/Assets/Materials/Doors.Doors
+	Asset Name: /Game/AlchemistsHouse/Assets/Materials/Doors_texture_Mat.Doors_texture_Mat
+	Asset Name: /Game/AlchemistsHouse/Assets/Materials/Lab_stuff_1.Lab_stuff_1
+[2021.11.14-18.42.45:943][955]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.14-18.42.48:607][955]LogWorld: UWorld::CleanupWorld for AlchemistsHouse_1_Auto1, bSessionEnded=true, bCleanupResources=true
+[2021.11.14-18.42.48:608][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-18.42.48:616][955]LogWorld: UWorld::CleanupWorld for ExampleGameLevel_15A_Map, bSessionEnded=true, bCleanupResources=true
+[2021.11.14-18.42.48:616][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-18.42.48:656][955]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2021.11.14-18.42.48:721][955]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.11.14-18.42.49:706][955]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.985 s
+[2021.11.14-18.42.49:706][955]LogOutputDevice: Error: === Handled ensure: ===
+[2021.11.14-18.42.49:706][955]LogOutputDevice: Error: 
+[2021.11.14-18.42.49:706][955]LogOutputDevice: Error: Ensure condition failed: Found [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 201]
+[2021.11.14-18.42.49:706][955]LogOutputDevice: Error: Cannot remove redirection from /Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map./Game/LSS_LoadingScreenSystem/Maps/Streaming/ExampleGameLevel_15A_Map_BuiltData.ExampleGameLevel_15A_Map_BuiltData, it was not registered
+[2021.11.14-18.42.49:706][955]LogOutputDevice: Error: Stack: 
+[2021.11.14-18.42.49:706][955]LogOutputDevice: Error: [Callstack] 0x00007ffe60936988 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.14-18.42.49:706][955]LogOutputDevice: Error: [Callstack] 0x00007ffe60508a71 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.14-18.42.49:706][955]LogOutputDevice: Error: [Callstack] 0x00007ffe5f904b80 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2021.11.14-18.42.49:706][955]LogOutputDevice: Error: [Callstack] 0x00007ffe4ef3f0cb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.14-18.42.49:706][955]LogOutputDevice: Error: [Callstack] 0x00007ffe4ef4a5e9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.14-18.42.49:706][955]LogOutputDevice: Error: [Callstack] 0x00007ffe4e6a40d9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.14-18.42.49:706][955]LogOutputDevice: Error: [Callstack] 0x00007ffe4e97fbde UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.14-18.42.49:706][955]LogOutputDevice: Error: [Callstack] 0x00007ffe4e9770b7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.14-18.42.49:706][955]LogOutputDevice: Error: [Callstack] 0x00007ffe5d91859e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.14-18.42.49:706][955]LogOutputDevice: Error: [Callstack] 0x00007ffe5d93071e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.14-18.42.49:706][955]LogOutputDevice: Error: [Callstack] 0x00007ffe5d7746be UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.14-18.42.49:706][955]LogOutputDevice: Error: [Callstack] 0x00007ffe5d7f7f14 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffe5d7e0337 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffe5d7d3632 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffee2c3bcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffee2c29197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffee2c3e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffee2c24310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffee9bce7e8 USER32.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffee9bce229 USER32.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffee2c3f7b9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffe5d802233 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffe5d79d485 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffe4ea0c07e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffe4ef3e2c8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffe474f6bb8 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffe187e70e9 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffe187e72ee UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffe187d7a17 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffe47d60703 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffe47d59de2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffe47dd80e2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffe47d5cfa7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffe5d91859e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffe5d93071e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffe5d7746be UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffe5d7f7f14 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffe5d7e0337 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffe5d7d3632 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffee2c3bcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffee2c29197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffee2c3e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffee2c24310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffee9bce7e8 USER32.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffee9bce229 USER32.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffee2c3f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ff75df58848 UE4Editor.exe!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ff75df7117c UE4Editor.exe!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ff75df7125a UE4Editor.exe!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ff75df852bd UE4Editor.exe!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ff75df87fea UE4Editor.exe!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffeeabf7034 KERNEL32.DLL!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: [Callstack] 0x00007ffeebbc2651 ntdll.dll!UnknownFunction []
+[2021.11.14-18.42.49:707][955]LogOutputDevice: Error: 
