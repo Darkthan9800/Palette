@@ -1,0 +1,2307 @@
+{
+	"AssetInfoVersion": 1,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "90EB031D8FDEB46A0E83C519A2176434F577289D",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C4DA43BB9F7FA3FADD05D18492E22C9D2A56542A",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1222D0484E883F54CA540507CD5C14DDEF36D04E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6E9A799DFFD720B2FFB06A806C3C7E3F75EE7727",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B634AA5A1BD03AD2F5A4C31313955728B105F1FD",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FB936272099EC80F5237E7FC93F5B702B08D71FD",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "08A9C900BD97A83294815E03ADA373FDE1CD7385",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5E54F8731E4DB06305E2C922AD4FA917B06EF3DF",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0695DD75639BDBD91DB63A414F2D223005468288",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EBCF5794E5A141E7DA33E81A44AA8E417B217030",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FE8CE8B2D73D27909D761AC4B90FC812E07A1C50",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F035C5AEC668D3A2F28DFB10F896D53A0D0191C2",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9B89BC8DE92D45F96BEAC37A6CE962EA1DF5002A",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "54A7D144BEB2ECB9142451A1C39E75439EDBC23F",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F49C844D1C549D96DDA7938AC2B78D459737C522",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "02939D9A7977906B77AC407A09BE67BD2E55C392",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B626AD6BACF1D1FE399B5268B41D02417875D631",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "84E9C2A181F2450D8A8A3DD7613C4A24A487D24E",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset",
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "988A7C53FB7D26F94DEF4D2322CBFCCBBCA193EC",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4D246A844C64486CC0E6AE626678B106954B07B3",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B2D87992C0A0501C2BDE86D096FB6ECF70183C04",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6D73D37450D358E7D79E37798612FD089642A0FA",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0093321533F4E4BBA0F5DBE23A3788E71DC8A06E",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FA6575401ABC7DCA69EBCB41787894BC59F17164",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "05A6EE8DB4240214338145620295E2D850BD41D9",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "64DBA905FBCD54874902B3A8449C4A04F0103395",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D4C9AB8B8C49A0B574A7C30BF425748F9B833ED7",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "86BF17622D766F27D53FD01BEB8B2A514DFA8B5C",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E4B4E43D16C087251B2E54364538268FB9EC5179",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "20721CEEE5ED2FDE6080726CB069C785FF351178",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8D1FC3BE7873A6A89B283EA36CF696F9DBF9F6C9",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CAD150DD00F05864CC937D961D78C02A6BEADDE2",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/BeachLevel/Landscape/Mat_Sand.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/ManorLevel/Props/SpiralStairs/Material__25.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Mesh/M_Mannequin.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/DemoRoom/Meshes/Fbx_Default_Material.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DE585424332BB9B86332E50BD6A40370446C676D",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CDDF821B88F33B25999804370F089F69DB185F15",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0FA1933BBAA66C1D2FE24381826A5A380BFA018C",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8C700C10C5C774E72EF3879D59D11F53CCCD8E4F",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/UI/Materials/M_GradientBorder_TopBottom.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "03F09777A4EF425A2A0DC21BB234038D953F2658",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/Materials/M_UMG_Font.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A0B407E283785C2C6955765A0AAB377961684EED",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/UI/Materials/M_GradientBorder_B.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A3DC442F51846D3F36CE5E87F786A3D1B2BDB6D9",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F74DE292B2CE72F02F989EA57E3AE2C4729A64B4",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Materials/M_UI_TabEsc.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5E63F8D44B01CAD1DFF11145FE486ACB4B463B77",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/UI/Materials/M_GradientBorder_Reverse.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "67E214D36DEED26777D2C0EA95ED7F014CDC1875",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_aura9.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0CDC9ED3A9D97A9516F9CECEF0A21AE221C19244",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Blueprints/Maps/Beach_Level.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Blueprints/Maps/Beach_Level_JonStash.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8F94A4FC3341384CBF33FCF3A6951C2AA215BAA9",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Blueprints/Maps/Beach_Level.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Blueprints/Maps/Beach_Level_JonStash.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "97DEA18748D472E0C1316F344FDFC33EADBF4055",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Blueprints/Maps/Beach_Level.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Blueprints/Maps/Beach_Level_JonStash.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "49E968409BA811CF31401A15995551252F09433F",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Blueprints/Maps/Beach_Level.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Blueprints/Maps/Manor_Level.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Blueprints/Maps/Beach_Level_JonStash.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A9BD6E19FF36A7E71ECC03BF97614A44D8687858",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Blueprints/Maps/Beach_Level.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "681F7617061F2B64CF02A9A6744C037F07CB1A96",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_polarC_two.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C8625773075E13170D44432DA705349A0141CF4F",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_flare_flash_trs.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6C9A718FEB98E6A429AFCB052636497A7A9AC27C",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_smoke01b.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "30F99550C84AD6A9B9FD03D46F585A1056AD5679",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_polar_two.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D975973AE33481FAD56C406D1E2D9C6550E61051",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Stylized_Forest/Materials/trees/MI_tree_bark_01_Inst.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Stylized_Forest/Materials/trees/MI_tree_bark_02_Inst.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Stylized_Forest/Materials/trees/M_tree_bark.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3E48B204B4DC930E0F6B74F90B04AC133EB90A87",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Stylized_Forest/Materials/trees/MI_tree_07_Inst.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Stylized_Forest/Materials/trees/MI_stump_03_Inst.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Stylized_Forest/Materials/trees/MI_log_02_Inst.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Stylized_Forest/Materials/trees/MI_branch_stump_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A4537A6DD7F737297C9E9223160FC60BF90741A7",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Stylized_Forest/Materials/trees/MI_foliage_02_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "814DB0017BD14E4E97D77283EF85286E7086CC2E",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Stylized_Forest/Materials/plants/MI_grass_02_Inst.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Stylized_Forest/Materials/plants/MI_shrub_flower_01_Inst.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Stylized_Forest/Materials/plants/MI_flower_01_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3D9DE96B587A2B9C4A7AA8AEB29ACEB9D6F99FA0",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Stylized_Forest/Materials/plants/MI_grass_01_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BDA051E4EDA9B216DDCB7B9966FE7798FEC8C2E0",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Blueprints/Maps/Manor_Level.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Blueprints/Maps/Beach_Level_JonStash.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6B34A8626139E644C8C7A84D6A3D021D2D1A0DBA",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/EnvironmentAssets/Train/Cart.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DDF5AA31FE01D276006228B7D9AD481D379998CB",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FA4674C1E81EE512F9E1768AD2E8781F2A3BC6C3",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/EnvironmentAssets/Train/Train.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/BeachLevel/Prop/FishingPole/Mat_FishingPole.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D15F3FE25784A4E38C9FB00E6A234070850ED93E",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C9976DEFCF6E9FC16BC665B55E561E234511BF39",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8AD970F5C0A39653B7C5A39EBBBB3F99026AEC94",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Stylized_Forest/Maps/Demonstration.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "480F1A1C024985544D4E8C5771AD6E2D7256C557",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Stylized_Forest/Maps/Demonstration.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "38744D477788864B1F954DA2FD70D60694DDCDF7",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Effects/AnimGridFloor/Materials/M_AnimGridFloor_Inst.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Effects/AnimGridFloor/Materials/M_AnimGridFloor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2A7FE6D0BD0815CED0E5FC9AD58093EDD84077C1",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Mannequin/MannequinMaterials/Materials/Mannequin/MI_Mannequin_Body_Logo_00.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D2BAF0C67B2EB11375D2B097FA877014006BC1DB",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Mannequin/MannequinMaterials/Materials/Mannequin/MI_Mannequin_Body_03.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Mannequin/MannequinMaterials/Materials/Mannequin/MI_Mannequin_Body_02.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Mannequin/MannequinMaterials/Materials/Mannequin/MI_Mannequin_Body_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "373C7D499506F85A5AD29FA4A5BF3C55FDFED771",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Mannequin/MannequinMaterials/Materials/Mannequin/MI_Mannequin_Body_Logo_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5275420E55D8CFAB66CB0964390A3245471B3AFC",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Materials/M_DemoWallPattern_Inst_Mirrored.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_Inst_Mirrored.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/DemoRoom/Materials/M_DemoWallPattern_Inst_Mirrored.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7C35430BCB5472926D3C1A1B53ECFA7193745A46",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Materials/M_Glass_Inst.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/EpicContent/Materials/MI_Glass.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/DemoRoom/Materials/M_Glass_Inst.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Materials/M_Glass.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/EpicContent/Materials/M_Glass.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/DemoRoom/Materials/M_Glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2F171654C4FA1555AD87C6048828CE1365033325",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Materials/M_DemoWallPattern_NoText.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_NoText.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/DemoRoom/Materials/M_DemoWallPattern_NoText.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A96D11DEB5559CC6F203B305695ADC40C9CC8D7E",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Mannequin/MannequinMaterials/Materials/Mannequin/MI_Mannequin_Body_Logo_02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C355F73477F3BFD9FBCB73F57DBF55F12360FE85",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_vortex04B_4x4_two.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FF10CD262D25109B80FD2CD05E7535391AA7EAB3",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_storm01_nonD.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_storm01_aqua_nonD.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1B832A05E9D2675D5264F6E0CD5A378726C15E90",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_circleDust.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B0DAED71FE41DB57634A273579F693074D946457",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_shine01R_nonD.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_shine01R.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_flare01_primitive.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "98F165BD5FEDE6866667639750B29AC5A65405E6",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_starDust_sq.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C0EDA9F63725C1473BD222836BC4F83909CAD91C",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_starDust_dis.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "948A3702CFB35C848DD64C1218DE192A0DBC260F",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_circle9_4x4c2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A2AB56E88A1AFF181E2C62F7F1A56100AE10CBBF",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_auraWall02_two.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EED6F5BA9A91C152EFE73155A2919398F0F66431",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_storm01_fire_nonD1.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_storm01_dark_nonD.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_storm01_thunder_nonD.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A4B6A040F538AC706A3A85CE664589A6D8E2D0D2",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_storm01_fire.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_storm01_dark.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_storm01_thunder.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0DDC30D52B07593B8D52742B2AAF2FA2C60CADD6",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_polarG_nonD.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_polar.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7F01876113BB933997DFF9F5F241A04BB8159D30",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_primitive_dynB_two.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "46B72BB37B19D8ADFD96B382016554C87312791F",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_shockWave03g_4x4.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A5DEA8FE951ECB3E2A7935FD662366D98D67BE9D",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/TS_PostProcess/PostProcess/PPM_TS_Pixelize.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2941963462A495133F5ACA1504D09F96A3C4EE99",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/MI_ky_shine01B.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CF6E5622D475AB31ADD540C4FC10572B21BACA5E",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C871F77F6FC698E102FD9391C77C9DB8EF0530FF",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/TS_PostProcess/PostProcess/PPM_TS_Posterize.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D7AE472028E0268DC9860E616D5808E1DCD952A6",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/TS_PostProcess/PostProcess/PPM_TS_InkAndPaper.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "111BF2C5B2EE87385A86D8370FFCF8EB08C64230",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/TS_PostProcess/PostProcess/PPM_TS_InkOnly.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4692FC8EDB7AD33433FE9149B843A906868BB3B8",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/TS_PostProcess/PostProcess/PPM_TS_Halftone.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F70ECADBCED9AE97CA4002AF707C4C4C537009FC",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/TS_PostProcess/PostProcess/PPM_TS_FakeLighting.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8EE27B8EA009BD6AA16EF1F6349428558C7914E9",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/TS_PostProcess/PostProcess/PPM_TS_Crosshatch.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A778B4EB91C3033DFCF41D5877814E80DFB84AFD",
+			"Assets": [
+				"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3A4F18E794F83DCFCEBA541D5C3AF2A46B342B45",
+			"Assets": [
+				"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DE04B3A4D55BACB39978CE500A9096901A2793CE",
+			"Assets": [
+				"../../../Engine/Content/EngineMeshes/M_Mat_UnrealTech.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DD382F3441E5F0AFA8FB1DC627DC453EAD489935",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/TS_PostProcess/PostProcess/PPM_TS_ToonShader_CustomDepth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "680096B8EA4D67BD95A9FA31D01ADEE3E602A5AB",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/TS_PostProcess/PostProcess/PPM_TS_Pixelize_CustomDepth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0DA982C03AB0A89AAF561DADF4D5962914EA3F84",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/TS_PostProcess/PostProcess/PPM_TS_InkOnly_CustomDepth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "760B6D7330BE0DFEBEB9E7D2E08300F995C74F46",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/TS_PostProcess/PostProcess/PPM_TS_InkAndPaper_CustomDepth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "861DE130EC51DF5F1131610206045738DC8B6D6B",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/TS_PostProcess/PostProcess/PPM_TS_Halftone_CustomDepth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C450495AD207D9342332C01F494A3049CE80B35C",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/TS_PostProcess/PostProcess/PPM_TS_FakeLighting_CustomDepth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CC5435EAE4C21BAAB5B36797CC5202D0FB434DB4",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/TS_PostProcess/PostProcess/PPM_TS_Posterize_CustomDepth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "75AD9D75B8244D5EEAD8509D31C58248E3DDE068",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9EA03054B092D88DEAE3CF245801A09BDD638214",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/TS_PostProcess/PostProcess/PPM_TS_ToonShader.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3C79889A1230504A6FC83313779DE791D2DEDFFA",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_SkinBall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FB1F03D6F3149407FE6160E972D25A40D2A3F423",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0B380866462F87CD20470BE47A2B339571A922CA",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F6E6EC166965AB302A6A6D53FC1F5B97BBE81FD8",
+			"Assets": [
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_50percent_BaseColor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B0F8B0731FF8A9F28DB2DBA6292E78960FD928D5",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/TS_PostProcess/PostProcess/PPM_TS_BrightnessClamper.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "055E59261ED4F53D873932A8AE35ED48E1B26369",
+			"Assets": [
+				"../../../Engine/Content/MapTemplates/Materials/BasicAsset02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8CB7646030E561A2DDD208A0C76D1B277BBD4AA2",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9713F020320E160206E02DD799B49CBC7B0F114A",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "32601A88D5179E598D187FBCB743AAD108A2B585",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "18F9F8A57644346B9E5C6F3D9511393ACD4FE58F",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Stylized_Forest/Materials/trees/M_log_stump.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "107F73925C24B60E2D9350E3223D918DD7292195",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Stylized_Forest/Materials/trees/M_foliage.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "56ED6DD5A2045DCC5E2C6502D6AC5995308D8062",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Stylized_Forest/Materials/stones/M_stone.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "42E8A40881204ECEDC7229B79411994CC18BC9BA",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Stylized_Forest/Materials/plants/M_plants.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1828AC5CFF8EF41137F724F15CA56F2199CFEDB5",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Stylized_Forest/Materials/stones/M_stone_cliff.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3258D951A7D922E78F0FF2D1811811647CE5E926",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/BeachLevel/Landscape/M_landscape_Beach.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "828A7AEE5AC2DA91F4D742AA6DD1575357EB6B95",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StylizedWaterShader/Materials/M_BasicBuoyancyTest.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F76C91E0DE51818F07AEC3B60EC474E487DA601F",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StylizedWaterShader/Materials/M_BasicMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E5DE860B4BE594936E3DE33B9091A8D738F7165D",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StylizedWaterShader/Materials/M_UnderWaterEffectPostProcessing.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "58EEFDAA5880A7D86BB9EF95C37D7A295122B0F2",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StylizedWaterShader/Materials/M_Caustics.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1446280F29E279A52013F449B3787653CA89DAA0",
+			"Assets": [
+				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4A94A5CCFBEAC4164F5AAF5AE8DD34F5587BBEB6",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Basic_Wall.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StylizedWaterShader/Materials/M_Basic_Wall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2ECFA01F4DE340FD96B954D2B37B722AF7348F03",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StylizedWaterShader/Materials/M_Water.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D4AA63192FC36C1A2B270C337A0B9CB09F000422",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Props/Materials/M_Frame.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0A03837D143E79D7F829AE3C17DC2284C061C2C4",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D9ED1A16709AE7FF2688ED25ADADF77F6A6803F8",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F124593F9FCA88B0DC7067BA7585970A9373F66D",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A700A43B92525924A93FEF33C77C443BDCD46F77",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4A95D60D7B7451E1AB54A546ED594A5E1BED6A84",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F407EC01A6C9B6CBDC69988BD31754EFD84586E8",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "44BA09FAF8BD12D41170FD10F142E8F8867BB092",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7A5F5E2B863E4DFC1571ECD92754112B425043BA",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "253CA34431AC30B233734E4A413163175E6760FD",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Water_Lake.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4C03822D219E00E365C589DF5C3BBD915D27CC79",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A403227DC4CB649518D8A561233EEF69CA4ED38C",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E97941C8080969E89A892F28DBA7558DB616975E",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7D5D04CC76D779DAFB7042A7109A6A55880E86EB",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "78D7C4BCD2A1859F99BAE51F7A7B344A787A74D4",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EEB7FB6931C9F19F73F37E0C9F8C59BEF17375CA",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "950641FDEA40C900AA2745BD01986291911A1305",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "72A5DADB8FC30BFF687896C38D94E591B5D2723C",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4B000D8834AE2318A3965280A0CCF0F1CCABFECD",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1F27B5287109C7DA88A1F14714A86EEB02552548",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EB0A031032C70869B120357A71A7223D1A0DE22D",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "99C7890EB2B6423813D0C432BCDF786F90C94425",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E1C3E13EBA910B504F9B257A322D337DCC2B5D7C",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8FC2B4250B4B5AD8AD110C7A0BB1889DD87470F8",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "ECC2E6581D73CEC7DB802C85FB163209356956ED",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "141E91D0751B517356D347E1B9CCFA23159D8255",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0410A5AD7BE8081D5EAD32B8FCA105803A7B6477",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "71E2100EDEE0C1D2141DFFF27C12EECFC3E6CD72",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FB4412EB5F2EDDDABCDBFD1948BFF78B86EAA631",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "779F5F90CA610CD6774F5031BCE57AA23779457F",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "14FDB1C9CD7E2CBF6263D5B96AA9A676388336DF",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7F7F465B21102AF0F8B563F714CF89A8B45523D8",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "226A4BCA0E1DBA399FB78F1BEE4B09AC80D58F43",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "69D094038E935B37A25EF93F01E4FADFA9BDF922",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/Materials/M_LSS_Example_Glow.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0D48129B506665952D634786A28F76DEA7858BAF",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_subUV01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "36A2771B21D8393BBCC6BF8382BAFC5C98202C82",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Materials/Fonts/M_DefaultTextMaterialOpaque.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/AdvancedRoomDescription/Materials/M_RoomDescriptionTextMaterialOpaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "15A9B60FAF17106EB002221A2DF77573B63B5F90",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_polar_primitive.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6241F13A67E25EF39103E572572CFF978D12BD13",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_waterDust02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9C0918F67505339B5B5EC80B184D5F96B0D88C16",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/EpicContent/Materials/M_DemoRoomTiles.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "42DC0A9CBC45234C1B248E1321AC14E95C645E6A",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Chicken.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Book_opened.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Pie.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Wall_round_2.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Book_closed.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Book_6.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Book_2.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Book_5.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Lab_stuff_1.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Wall_round_3.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Lab_stuff_2.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Book_4.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Stairs_round.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Board.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Garlic.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Vases.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Book_3.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Wall_round_0.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Textures/Pumpkin_Texture_Mat.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Ham.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Board_2.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Wall_round_1.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Wall_round_4.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Celling_1.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Book_1.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Cup.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Balcony.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Armchair.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Cheese.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Floor_parquet.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "60EAE74876974D72610062419120DB7FB3137A35",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Carpet_long.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Carpet.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Wall_1_2.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Ambry.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Shelf.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Wall_1_4.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Chest.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Pillars.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Fireplace.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/bookcase.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Celling_2.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Wall_1_7.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Table.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Stairs.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Potions.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/carrot.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Carpet_2.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Bed.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Alchemist_table.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Carpet_long_2.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Table_round.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Windows.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Broccoli.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Stand.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Blinds.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Wall_1_3.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Bread.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Wall_1_1.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Floor_wooden_texture_Mat.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Wall_1_5.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Chair.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Wall_1_0.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Doors.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7F15A5AE287D4CCE91F72EB6DB81B841783C269F",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Materials/GrayboxWood.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7683EEE1424CFCBF19CADDCE27F4EB69DE065A15",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_7.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A81AE3DABF15484F66C506E2D1946E1210B0FD77",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_thunderForBeam.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E59C772D098B927AA6E7FC65FA9FE431B1E103B5",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/SpaceshooterMinigame/Materials/M_LightTube.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Materials/M_LightTube.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/DemoRoom/Materials/M_LightTube.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/EpicContent/Materials/M_LightTube.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F0BDC0BF261D824C7546151E46AADCA4E4314A72",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/SpaceshooterMinigame/Materials/M_Radial_Gradient.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A036E2E6D9D134E3286AF35E595FFBE58F77B8D5",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_dynDust.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "19452FA8DBD50383ADC9B8A92A5CADD2D0834085",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_laser01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "458DCC61E75674BA17EC986F5B3678999B16FA0A",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_primitive.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E7D8C3F9A2AD733AF21088FCD33CEB7BDE07D493",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/BeachLevel/Prop/CarnivalBooths/Material__CarnivalBooth02.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/BeachLevel/Prop/TicketBooth/Material__TicketBooth.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/BeachLevel/Prop/CarnivalBooths/Material__CarnivalBooth01.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/BeachLevel/Environment/BlackPines/Material__BlackPineTrees.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5EF82AA485E73B342B8DA7DD4A3ED4C0579E64A5",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Shades/Bipolar/Material_BipolarShade.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Shades/LingeringIssues/Mat_Shade_LingeringIssues.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/NPCs/Conductor/Mat_Conductor_Body.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Shades/SocialAnxiety/Mat_Shade_SocialAnxiety_Fake.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Shades/Paranoia/ShadeGoop_Paranoia.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F6355C8C1AE88D4BF25FFB9BBA2293D3C08110E7",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_stormDeco01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0B7496FC9D6E6541BBB075AEEBB51808C5B41F2C",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_flare_flash.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "96250A5EA71ACDCEF1104D380D6798CB407D7BCB",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_6.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "02EFB87E211C47D3E27F617860C8641DEF862A10",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/EnvironmentAssets/Prototyping/Mat_Canvas_Transparent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "373D6BC8808D7AC44CA19AC1F6D4188891AEDBAA",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_base_turbulence.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D463AED56AF5D21AEFD58A4BE1D0105A707EAF43",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/SpaceshooterMinigame/Materials/M_DefaultTextMaterialTranslucentUnlit.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Materials/Fonts/M_DefaultTextMaterialTranslucentUnlit.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/DemoRoom/Materials/DefaultTextMaterialTranslucentUnlit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A94BAD65FD950B7C810E30486C318B4F6C723132",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0624B1E0709D773064B273EEF6B0B1BB1D30B792",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_19.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7D535090356FEAA1DA5780F94C84FF721D4436A4",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_18.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "873A2A55983226CA841898E6762FB6AD712A4C8D",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_subUV03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "42AE3EB20E65424CDB4B12E159144F832D124745",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Materials/ShadeGoop.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "09C60625A0237917258B0FBF45CA4983603AF3C0",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/StarterContent/Particles/Materials/M_Radial_Gradient.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FC7A69CADD527E23EE1209028B09DA218765774C",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/NPCs/BeachLevel_Snails/Material_Snail01.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/NPCs/BeachLevel_Snails/Material_Snail02.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/NPCs/BeachLevel_Snails/Material_Snail03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "91B422FE7B507FEB3CCDD2C2B90F2B20D1C13C72",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/NPCs/Conductor/Mat_Conductor_Face.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "303C70A83598861F46045551B3BBDF5401982630",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F887FC00F33A8ACED23214E8C947D7722D4F1694",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CF13030989181656DF41743F40C0240768032AF9",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Materials/M_DemoRoomTiles.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/DemoRoom/Materials/M_DemoRoomTiles.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AE7301606D5DE9E9F8165EBBADC29D114B926983",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DFA1B23993276B14C5FE7CFE5CDD5C518521DD93",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_subUV_dynRGB.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "86306D78EFD2E68DB50D059249A18BBFF4E3600F",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_9_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "001B98E9CC40E56E047B5BD759FB1F793236EB0A",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Window_1_glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "477F71B79072642F5A4949E2705056AE4C8E5334",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_starDust.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9E94D33904168EC4A80A17B394EFC1B6E0B49E1E",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Materials/M_Toy_Cow.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C9AE4BDB2F15CAFB3E2B00BC5E07F7AC7B316721",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_17.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "16B93CDA39799A8B940C0B70411996D642D5E249",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/BeachLevel/Prop/Bench/Material__Bench.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/BeachLevel/Prop/Stairs/Material__Stairs.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/BeachLevel/Props/PierSign/Material__PierSign.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/BeachLevel/Prop/Pier/Material__PierFence.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/BeachLevel/Prop/Umbrella/Material__2.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/ManorLevel/Props/Couch_Chair/Material_CouchAndChair.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Plate_1.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/BeachLevel/Prop/Towel/Material__25.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/BeachLevel/Prop/FerrisWheel/Material__FerrisWheel.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/ManorLevel/Props/SpiralStairs/Material_Stairs.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/ManorLevel/Props/HousePlants/Material_Houseplants.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Plate_2.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/BeachLevel/Prop/Pier/Material__Pier.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7513B38E9865BBC93A72E7E74167855D2EFA8DD8",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "81B7EE4AC97C61FFBAFA122CC6115D2887D0D8DF",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Props/Materials/M_Door.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4A3C41FDC525E50BFC15B0D241B281D215A1EF42",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_15_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C703BFC1F49F18BCFAC2AA9351A445E405E9591E",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/StarterContent/Props/Materials/M_Statue.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Props/Materials/M_Statue.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B69C1951951866FC5CDFF7042B4C96240040EB9C",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Scrolls.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Flag.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CED87F7FB111276B280931136D56BF014671870B",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Props/BasicGeometry/Meshes/Sand_Material.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1C2BB5B7F96483D6351F8ABFADB7B3451444F22E",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_16.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "702AC70D9A420DA3160E8030340ACCA3B6F2B3CD",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_5.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F4A4C146FDBAD9272100945CEA643B8665C30F3C",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Shades/Boss_Astraphobia/Animation/Material1.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Palette/Textures/07___Default.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Shades/Rage/OLD/Mask.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/BeachLevel/Prop/Graybox_MAT.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Shades/LingeringIssues/OLD/Material__28.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Shades/Rage/OLD/Body.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Shades/Rage/Mask.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Shades/Rage/Body.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EA6CD9360B5E8F7E61E54A141C832D8110351DEA",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Materials/Highlight_Material.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7446D84857147302C5B7A731DDCA8A9949A96ED9",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1DAE9906A8829CB07D8192367A10666B69A15D1A",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_13_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "98D1AC1AF2AE2CD85ECCD2A2AB7ED8F42D2848F4",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_8_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A0D7D41811DCCBB718F18A5302CEB0FD1F6538B6",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_6_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0DF47057BD76C51D2C03B51D0B88EDA6774210F4",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_aura9.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E3FCAA6199725F7B8960FC7478EFED304C49A572",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Particles/Dust_mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "438ADE52AB11ECAF249C875CFE978F942E9B1F33",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_base_anime.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7107C557850D160B35A24F294D53569AC0339409",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_auraWall02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B6B744F5B3EB1BDACA9EE7D523DA55C1A522C0CA",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_dust01_4x4.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "35CC50AB017460D48247DB00175AC8AEC1FAC19D",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Plant.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Candles_candlesticks.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BD2BF7BDD10B7355ABC88CED3A20745B6642F154",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_base.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A6D38F577867F24D9A457E4DA031F2690474D3B9",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_11.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F7D69AD930B850CEF2D945CE3F84A1456AF2E00C",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Metal_Copper.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/StarterContent/Materials/M_Metal_Copper.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E5430B302A0E54D7C9DB6B44E8E453286979A235",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Palette/Textures/Mat_Palette_Body.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/NPCs/ManorLevel_Ghost/Mat_NPC_Ghost.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/NPCs/ManorLevel_Ghost/OLD/Material_NPCGhost.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Easel/Textures/Mat_Easel_Body.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8FD03806F95408F7FB42489F4C10B210D963AA67",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Effects/Materials/M_square_ramp.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CD723BD159C25826F6C6A5489342B1803B93CF95",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_11_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "89F41A59411ADAA27A83CAE74DBD3F43CAA51600",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_3_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "31D2485FBDE55BB7FA651DC24B8DCE5DEC707E00",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_smoke01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2420CC85DBCD18851E0EFE0BE9279BD1BA6D3BE9",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_empty.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C02A60273BBD5FD61BA324DF2D8B41F10998CC3F",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "208E9AD05D6E9206E1666FB152498240BF491B34",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_15.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C644CC8A1FBFEDE926D4A03F0B48470DA190D605",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Mannequin/MannequinMaterials/Materials/Mannequin/M_Mannequin_Body.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "83F663AFC23D74AA1A86A296E37C467BEB39179B",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_10_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D49660735A7F742944D2CCB59D3E65A5B2883F10",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_7_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7326E079FD98A6B81A0084643DE0DC6031F21B81",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/AdvancedRoomDescription/Materials/M_DemoWall.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/SpaceshooterMinigame/Materials/M_DemoWall.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/DemoRoom/Materials/M_DemoWall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DDBBFA0243EB91F48B447FC1CD8DEC3824299F79",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/PostProcessing/PPM_Lines_CustomDepth_Stencil.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BCAFFD8FFFA60C13CC8F4D6743EAEC534212DC12",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "59110F3AB9691D37C2757F0A078839ABA8BA5591",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_shockWave03_4x4.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "74FCCF0081475B5EA822B796750E17370E011477",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Effects/Materials/m_flare_03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7B3D6E7C6EB092989A9C08ADC9B3CB1EE1035792",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Shades/Boss_Thalassaphobia/Mat_Shade_Thalassophobia.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7518C7A945C4D2C4AE8FCB8D3C9461279CC43AD1",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Mannequin/Character/Materials/M_VisorGlow.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "48882B546DDEF92B1A413A87E2CB7201028769EF",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_chantDecoA.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DA21B4A65FCC283D83A3290AA32B6379DB065AB7",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_vortex04_4x4.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "00D0D0F948507EC2402F90DD6167B3ECD3D34C99",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Effects/Materials/M_ShapeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DBC6EE2C0100E756EBF2E267AD202CBD9F5D653B",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/TS_PostProcess/PostProcess/PPM_TS_InkAndPaper_Old.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B0D0DD7B38B2B4238F54590AEEBC727D2C4B3400",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/StarterContent/Particles/Materials/M_Fire_SubUV.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "74EEDE8C1C88F9A785E1640595A0DBD1A49AECAA",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_magicCircle020.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8F4935297CBEE23588CE1F2287129CEFDD0554F9",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Shades/SocialAnxiety/Mat_Shade_SocialAnxiety.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5628369DCAEDA2867FD1E3056FA25D81D7D589F8",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Materials/LightPosts/Material_LightPost_01.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Materials/LightPosts/Material_LightPost_02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EA1F1CF0B29DD954C315F92A2CA61727CEAF982F",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/EpicContent/Materials/M_DefaultTextMaterialTranslucentUnlit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "11517B469E4D2C5D5C297CF2D4B6C0C42AA7BAEC",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_trail_primitive.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9251F4635C34D20BF5FBC5C313842D303F643E49",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Props/Materials/M_Bush.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3C77CDA18AA2259E56B75A4A4C3A579C9335318A",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_Fresnel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8E9C39D202C8DFBF35815E9F1A12061939E0A67C",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_circle01_4x4G_nonD.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D37BAF0C1A639F6DD7284CBE73DD216FCF19AEDE",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Tablecloth.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Tablecloth_blue.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AB229C0524F685EF5FB2CA309F6F407892BA1CEE",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_17_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5B39A121D1C250E4392E3E800D27DD2437DBC6BB",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_primitive_dyn2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "59F760720ACCCEB31A5A97D5D3D33A998C05C4FF",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/TS_PostProcess/PostProcess/PPM_TS_Crosshatch_CustomDepth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A6DC2160340F1D7BA38B1849F1CC4A8A95F3FA64",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/EpicContent/Materials/M_DemoWall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A0835F193FC1342A8A03616E3F27C060B392BD74",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Shades/Mat_Splat_Decal.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F84E90CE4A437EAF7C339AF6D9AC9D89966AA934",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "69CE0ED76321D1A20ACD7EDB180802017C644298",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Lighter_2-1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "295602D1F2D6B7510E22BA36D0B7E1A20F216F82",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Props/BasicGeometry/Meshes/SeaWater_Material.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A1CB796A172FB876C66175D0A0B61ABA1333F54F",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Materials/M_Screen_Pong_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EF86768B3AE311D41B43AE51CB2B21B983F07932",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_4.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7098C342E27FE8C06BA1C6C25E3538162E48E4AE",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/StarterContent/Props/Materials/M_StatueGlass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8A9C9BC3712F1A7945ADFF2052A48FD59A645317",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/StarterContent/Particles/Materials/M_smoke_subUV.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8F2EBECDDA55DB07D441D35A970F61B1280FEC5C",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/StarterContent/Particles/Materials/M_Heat_Distortion.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4E247CFAD13E6A582C49EDEE49D333EB9CF8315F",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Mannequin/Character/Materials/M_UE4Man_Body.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Mannequin/Character/Materials/M_Male_Body.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/FirstPerson/Character/Materials/M_UE4Man_Body.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AFC7C6950F06397422AF4809ABE5618D48F898A1",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Light_Shaft_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "78D629D69C9ADD95399DFB667C7C046D74962F87",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_5_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "790996CB2E58CEF5AF60D64D0CA88BC0A74BB0F3",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Props/Materials/M_Rock.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "67938BBCE01D179194618E16841E516D70334316",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/BeachLevel/Props/PaintBucket/Material__PaintBucket.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0A74D7502C532E8E509FFA610C8140358051248D",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/FirstPerson/FPWeapon/Materials/M_FPGun.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B594CDBB821B6944C0272D20467F659DB4527B8A",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/PongGame/Materials/M_White_Unlit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BA47CD26187F7880FAD7279B767977EF7C3BF18C",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Window_2_glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "35BC8350B4ABBEA8AC428031AD9DD964C0B039A9",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/StarterContent/Materials/M_Basic_Floor.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7FDCD03D9D1FA0979658C42D194FBFBD0ACDF989",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_stone02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "623A29991D23A52970148C4ECF9D70315E2286A5",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Blueprints/Blueprints/M_Cursor_Decal.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8590718E8DE57BA7A87A040BCC4FC89D242D87E2",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_18_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "824FD3275C3FC939D3097511E98D71A07402F694",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Shades/Dysmorphia/Mat_Shade_Dysmorphia_Face.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7FA1F5B0664CCAA4A0A34B0164D291740359674F",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/SpaceshooterMinigame/Materials/m_flare_03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "172F85CAF29A79025204110D45D7AEA10FCC58A6",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Lighter.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3F6D811491386F492D07CF770DE7C891051A7AA3",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/DemoRoom/Materials/M_DemoWallPattern.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Materials/M_DemoWallPattern.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A10051F94C461BDC2D68EFE781C3ECB2CDA3D069",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_3.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7A4A74C01675712481989BDF55E35DF08FD134A3",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_flareVert.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "67D32B61AA606582E8C5E5E90FD278549D22D302",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_20.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "29A3DADD6172FB7E7C147E2E44B02560DA255739",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Shades/Shade_ColorParticle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "195EA65065B1C18FDD383FFD59E7198F1D7EF69E",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Materials/M_Logo_Doors.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9A7B4B418CA210B652EA668E1CAD7F6113CB3F14",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_flarePillar.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "603C10604DFF2EEB04795C45CCA3E34EEAD30BC4",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C70F5BCFB5F3BEE3B467A63F3F40167C472C02FD",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Window_3_glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B597F12BB06FB996D34C729E27BF0999960C2208",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_4_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FF057422962EB504394C6B6E7D9F2D981F55A20D",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_20_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3955EE24F93642FF43FAD1657BBEC61021AF8B0F",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Particles/Fire_mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3FC5F788B83DE32DE793E3724A9AA53E062F74FA",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/EnvironmentAssets/Prototyping/Mat_Canvas_Opaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A517E09FE3E2CC099D4DF86607B5D457E14B395D",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_9.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "74334890CD881E76BC0AE1C860510B3B03F878B3",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Shades/Paranoia/ShadeGoop_Paranoia02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "33B56F29A931B9D96D6E8DFB2F8A6B81D0CD5FA6",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D3EECC1DF1669DC309D8B8E7232371C721A80632",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_16_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CDCD2818780E7CE02E0E8EAEECA50C5813E5348B",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/StarterContent/Materials/M_Metal_Burnished_Steel.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "39BED9BA1114588ECD2E675ACCE652DE6B094E9C",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5D216E7C214F5B4E4A88BC33F538D145504A7E5C",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Easel/Textures/Mat_Easel_Face.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "095118458739B470CA5A1580190A2CF0E6F759C2",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/SpaceshooterMinigame/Materials/M_Space_Background.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "90CA7C580D9BE68A8F619661466A6C2A2D485314",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_8.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2B02FCE4BBA9A4D0324784374DDEEA6C1C919715",
+			"Assets": [
+				"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "15A77BFDB8E1CE7CD8E39065A60AB2B8DBB2D4BE",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Default_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "16EEEF75DF94E7AD19AB51418E644F5DFD513741",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/StarterContent/Props/Materials/M_TableRound.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "47F3ADC45BA55984628A66F75B196A0881F9A9A8",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Shades/Dysmorphia/Mat_Shade_Dysmorphia_Body.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3FB5685A92790DC46DA02A3B3E5C6D969A6B9DA0",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Materials/M_GlasDoor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C7FEFF446CFB42B40D72BA21C9893D5ED1467BFC",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "80271C681845F11769D5872ED8D8FC153CE8F67B",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/FXVarietyPack/Materials/M_ky_storm01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "83B1355982935CE449D5286E4DD1C7224DF83066",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Materials/M_Button2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FEAA5628DE4EBD5C7EB3871B0F8A2B69E09F689B",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/SpaceshooterMinigame/Materials/M_Pixel_Cube_Particle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5DD6C87FA9FAA7E613A10F9178126F33F05BB253",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_1_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "975B43818432291BCA120491DC43AE665F7EC504",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FDA2FCAFF1997C8D915B2BABC4B5F01754A1C8F1",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9288775D5B3B4C2E2727207DBAC157B2F10F41AC",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/StarterContent/Props/Materials/M_Chair.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "65ACE6E01A0F184B662F71893A76F60591D84571",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/SpaceshooterMinigame/Materials/M_Pixel_Cube.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "635D7AE2A7D5F9EA9972A8DA67570F3E5A95C97C",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/StarterContent/Materials/M_Brick_Clay_New.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "577DA6DE9344EEBBF2AEB7AE657361F5FC7B54D0",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/PostProcessing/PostProcessing_BlackAndWhite.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "211513129A6B86BBFE8FF6DD8DF5FBA459784C76",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Materials/m_black.uasset",
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Materials/M_black_2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "605812A7C88A4D00C6B1D83C41FFD7721BFC9208",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Palette/Paint/Mat_Splat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "89CB719FD7C394CD59B975B1307A814FBF7BC195",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Materials/M_Button.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1696028E830A5382E33211D1033A4BE7205A4144",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/Materials/M_Button_Chrome.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0BCF8ED023D853AC64BAB24710C6656A5C1EDF57",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "14B947197DEB9CAE924949BCF2B6F252D8EADA5B",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C9CAF8080D90EFFA8BB6DC9AD16BB9FB749BEF1E",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Lighter_2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7902ED6B304F77D5978EEAD86B27DED598CD9BF9",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Props/BasicGeometry/Meshes/CubeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A030D191499A56974C362C42D38233875D90A8EF",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/EmissiveTexturedMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "18EE85183B9BA2881836D6AC00811E129F6DBF75",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_10.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6C4E2E64B5376810C752E078352484DBED11F047",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/PongGame/Materials/M_pongText.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2E18A389D70B02763F331C48E06AD2E7804F1A3D",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_14.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5E1963467CBC8B4A2941A41C36BA2BAB5436131A",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_19_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "77917F0F38CB295103A08A8A0CA9AA4793724CAD",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_13.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E0BA0E16CD43304E30B74161782FBE9B3AE9642C",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EDE0449B5DA8F00A223B71C78C3B1077A836E704",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/Characters/Palette/Paint/Mat_Eraser.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1A4F8F0843B370E45ABBE96D7B999B39FA8947EE",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_12.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "593027D2C857BAB3C13004A9C917CCB641C8C0C8",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_14_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "69B7C235EA0FA10C959AB9E948A004E46BCFFE5D",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FBD80E5EDBF02BB5BFBD399C47276B8065159E5B",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E877ABC6E82EB6C7C3F9E4D2858B70B04A801307",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "ABAEF3E4AAA977F9B34B506C25372E7193070329",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_12_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "147420766EE127417EA9734E8EDD9491B7507A51",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Plate_3.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B8AE76998B69DF556919A9E5D14727F4B86F1E61",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_2_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "488D788C81B697ACC74F07050A7E626B8319D867",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/LSS_LoadingScreenSystem/DemoContent/StarterContent/ArchVis/Materials/M_TV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AFCE6D5CF555FBD40690E4AB49BB05E332795C6A",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Apple.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DF1CCFF2D790F71B216E0B435705C8B3041E9A1A",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Textures/Flame_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "22FC66CABE59DB016967AC237B4548B3F84ED3C5",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/Assets/BeachLevel/Environment/PalmTree/Material__PalmTree.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "52EC06992B03719760D7E822B267566668E5963A",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Light_Shaft_Mat3.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4EC515382BA8226F1CD7283E057386E99599A6FC",
+			"Assets": [
+				"C:/Users/jdhav/OneDrive/MyGames/GamesIMade/Palette/Palette_Project/Content/AlchemistsHouse/Assets/Materials/Light_Shaft_Mat2.uasset"
+			]
+		}
+	]
+}
